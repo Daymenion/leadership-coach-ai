@@ -1,0 +1,20 @@
+streamlit==1.43.1
+openai==1.65.5
+youtube-transcript-api==0.6.1
+pytube==15.0.0
+faiss-cpu==1.7.4
+sentence-transformers==2.4.0
+python-dotenv==1.0.0
+duckduckgo-search==3.9.6
+gtts==2.5.0
+pydub==0.25.1
+requests==2.31.0
+numpy==1.26.4
+tqdm==4.66.2
+pytest==7.4.3
+yt-dlp==2023.12.30
+deep-translator==1.11.4
+beautifulsoup4==4.12.2
+httpx==0.27.2
+# Optional: for speech recognition fallback
+openai-whisper==20231117

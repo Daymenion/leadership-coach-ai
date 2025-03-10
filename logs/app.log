@@ -1,0 +1,37 @@
+2025-03-10 18:11:58,673 - leadership_coach_app - INFO - Vector store initialized with 2361 vectors
+2025-03-10 18:11:59,858 - leadership_coach_app - INFO - OpenAI service initialized with model: gpt-4o-mini
+2025-03-10 18:12:00,427 - leadership_coach_app - INFO - Web search initialized. Available: True
+2025-03-10 18:12:00,453 - leadership_coach_app - INFO - Query processor initialized successfully
+2025-03-10 18:12:24,041 - leadership_coach_app - INFO - Query processed in 13.03 seconds
+2025-03-10 18:12:56,671 - leadership_coach_app - INFO - Query processed in 5.51 seconds
+2025-03-10 18:14:15,704 - leadership_coach_app - INFO - Query processed in 14.99 seconds
+2025-03-10 18:16:49,862 - leadership_coach_app - INFO - Vector store initialized with 2361 vectors
+2025-03-10 18:16:50,862 - leadership_coach_app - INFO - OpenAI service initialized with model: gpt-4o-mini
+2025-03-10 18:16:51,461 - leadership_coach_app - INFO - Web search initialized. Available: True
+2025-03-10 18:16:51,495 - leadership_coach_app - INFO - Query processor initialized successfully
+2025-03-10 18:17:16,906 - leadership_coach_app - INFO - Query processed in 12.93 seconds
+2025-03-10 18:20:24,348 - leadership_coach_app - INFO - Vector store initialized with 2361 vectors
+2025-03-10 18:20:25,230 - leadership_coach_app - INFO - OpenAI service initialized with model: gpt-4o-mini
+2025-03-10 18:20:25,660 - leadership_coach_app - INFO - Web search initialized. Available: True
+2025-03-10 18:20:25,685 - leadership_coach_app - INFO - Query processor initialized successfully
+2025-03-10 18:20:45,077 - leadership_coach_app - INFO - Query processed in 12.84 seconds
+2025-03-10 18:22:27,293 - leadership_coach_app - INFO - Query processed in 14.67 seconds
+2025-03-10 18:24:29,010 - leadership_coach_app - INFO - Query processed in 18.27 seconds
+2025-03-10 18:37:57,248 - leadership_coach_app - INFO - Vector store initialized with 2361 vectors
+2025-03-10 18:37:58,206 - leadership_coach_app - INFO - OpenAI service initialized with model: gpt-4o-mini
+2025-03-10 18:37:58,641 - leadership_coach_app - INFO - Web search initialized. Available: True
+2025-03-10 18:37:58,668 - leadership_coach_app - INFO - Query processor initialized successfully
+2025-03-10 18:38:24,333 - leadership_coach_app - INFO - Query processed in 8.12 seconds
+2025-03-10 18:39:41,771 - leadership_coach_app - INFO - Query processed in 44.91 seconds
+2025-03-10 18:40:50,157 - leadership_coach_app - INFO - Query processed in 12.94 seconds
+2025-03-10 18:55:44,061 - leadership_coach_app - INFO - Vector store initialized with 2361 vectors
+2025-03-10 18:55:44,962 - leadership_coach_app - INFO - OpenAI service initialized with model: gpt-4o-mini
+2025-03-10 18:55:45,479 - leadership_coach_app - INFO - Web search initialized. Available: True
+2025-03-10 18:55:45,504 - leadership_coach_app - INFO - Query processor initialized successfully
+2025-03-10 18:56:15,273 - leadership_coach_app - INFO - Query processed in 8.35 seconds
+2025-03-10 18:58:50,516 - leadership_coach_app - INFO - Vector store initialized with 2361 vectors
+2025-03-10 18:58:51,524 - leadership_coach_app - INFO - OpenAI service initialized with model: gpt-4o-mini
+2025-03-10 18:58:52,090 - leadership_coach_app - INFO - Web search initialized. Available: True
+2025-03-10 18:58:52,125 - leadership_coach_app - INFO - Query processor initialized successfully
+2025-03-10 18:59:43,096 - leadership_coach_app - INFO - Query processed in 4.69 seconds
+2025-03-10 19:03:45,950 - leadership_coach_app - INFO - Query processed in 9.87 seconds

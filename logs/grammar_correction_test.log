@@ -1,0 +1,13 @@
+2025-03-08 14:21:56,307 - grammar_correction_test - INFO - Starting grammar correction test, log file: D:\PROJECTS\CaseStudies\LeadershipCoach\logs\grammar_correction_test.log
+2025-03-08 14:21:56,312 - grammar_correction_test - INFO - Testing OpenAI API connectivity
+2025-03-08 14:21:58,502 - grammar_correction_test - INFO - OpenAI API connection successful!
+2025-03-08 14:21:58,503 - grammar_correction_test - INFO - Testing grammar correction on sample chunks
+2025-03-08 14:21:59,810 - grammar_correction_test - INFO - 
+Sample 1:
+2025-03-08 14:21:59,811 - grammar_correction_test - INFO - Original: Bu videoda liderlik üzerine konuşuyoruz. İyi bir lider olabilmek için, takımınızı dinlemelisiniz.
+2025-03-08 14:21:59,811 - grammar_correction_test - INFO - Improved: Bu videoda liderlik üzerine konuşuyoruz. İyi bir lider olabilmek için takımınızı dinlemelisiniz.
+2025-03-08 14:21:59,811 - grammar_correction_test - INFO - 
+Sample 2:
+2025-03-08 14:21:59,811 - grammar_correction_test - INFO - Original: Liderlik becerilerini geliştirmek istiyorsan, her gün pratiğini yapmalısın. Başarılı olmak için sabırlı olmalısın.
+2025-03-08 14:21:59,813 - grammar_correction_test - INFO - Improved: Liderlik becerilerini geliştirmek istiyorsan, her gün pratik yapmalısın. Başarılı olmak için sabırlı olmalısın.
+2025-03-08 14:21:59,813 - grammar_correction_test - INFO - Grammar correction test completed.

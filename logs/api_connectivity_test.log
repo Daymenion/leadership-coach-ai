@@ -1,0 +1,50 @@
+2025-03-08 14:21:16,300 - api_connectivity_test - INFO - Starting API connectivity test, log file: D:\PROJECTS\CaseStudies\LeadershipCoach\logs\api_connectivity_test.log
+2025-03-08 14:21:16,303 - api_connectivity_test - INFO - Starting OpenAI API connectivity test...
+2025-03-08 14:21:16,303 - api_connectivity_test - INFO - Using model: gpt-3.5-turbo
+2025-03-08 14:21:17,959 - api_connectivity_test - INFO - 
+Testing with Turkish prompt:
+2025-03-08 14:21:17,959 - api_connectivity_test - INFO - Testing chat completion with model: gpt-3.5-turbo
+2025-03-08 14:21:17,959 - api_connectivity_test - INFO - Prompt: Merhaba, liderlik becerilerini geliştirmek için ne önerirsin?
+
+2025-03-08 14:21:22,758 - api_connectivity_test - INFO - 
+Response:
+2025-03-08 14:21:22,759 - api_connectivity_test - INFO - Merhaba! Liderlik becerilerini geliştirmek için aşağıdaki önerileri uygulayabilirsin:
+
+1. Kendini Tanı: Liderlik becerilerini geliştirmek için öncelikle kendini tanımalısın. Güçlü ve zayıf yönlerini belirleyerek üzerinde çalışabilirsin.
+
+2. İletişim Becerilerini Geliştir: İyi bir lider olmak için etkili iletişim becerilerine sahip olman önemlidir. Empati kurabilme, dinleme ve açık iletişim kurma becerilerini geliştirmeye çalış.
+
+3. Ekip Çalışması: Liderlik, sadece bireysel yeteneklerle değil, ekip çalışmasıyla da ilgilidir. Ekip üyelerini motive etmek, desteklemek ve işbirliği içinde çalışmayı teşvik etmek önemlidir.
+
+4. Karar Verme Becerilerini Geliştir: Liderlik, zaman zaman zor kararlar almayı gerektirebilir. Karar verme sürecini iyileştirmek ve doğru kararlar alabilmek için analitik düşünme becerilerini geliştirmeye çalış.
+
+5. Sürekli Öğren: Liderlik becerilerini geliştirmek için sürekli olarak kendini geliştirmeye açık olmalısın. Kitaplar okuyarak, seminerlere katılarak veya liderlik koçluğu alarak kendini sürekli olarak geliştirebilirsin.
+
+Bu önerileri uygulayarak liderlik becerilerini geliştirebilir ve daha etkili bir lider olabilirsin. Eğer daha fazla destek veya rehberlik istersen, ben buradayım!
+2025-03-08 14:21:22,759 - api_connectivity_test - INFO - 
+Testing with English prompt:
+2025-03-08 14:21:22,759 - api_connectivity_test - INFO - Testing chat completion with model: gpt-3.5-turbo
+2025-03-08 14:21:22,759 - api_connectivity_test - INFO - Prompt: Hello, what strategies would you recommend for improving leadership skills?
+
+2025-03-08 14:21:25,238 - api_connectivity_test - INFO - 
+Response:
+2025-03-08 14:21:25,240 - api_connectivity_test - INFO - Hello! There are several strategies that can help improve leadership skills. Here are a few recommendations:
+
+1. Self-awareness: Start by understanding your own strengths, weaknesses, values, and leadership style. Self-awareness is key to becoming an effective leader.
+
+2. Continuous learning: Stay curious and always be open to learning new things. This could include reading books on leadership, attending workshops or seminars, or seeking feedback from others.
+
+3. Communication: Effective communication is essential for good leadership. Practice active listening, giving clear instructions, and providing feedback in a constructive manner.
+
+4. Emotional intelligence: Develop your emotional intelligence by understanding and managing your own emotions, as well as being empathetic towards others. This can help build strong relationships and improve team dynamics.
+
+5. Delegation: Learn to delegate tasks effectively and trust your team to deliver results. Delegating tasks can help you focus on high-priority activities and empower your team members to grow.
+
+6. Lead by example: Be a role model for your team by demonstrating the behaviors and values you expect from them. Your actions speak louder than words.
+
+7. Adaptability: In today's fast-paced world, leaders need to be adaptable and flexible. Embrace change, be open to new ideas, and be willing to adjust your approach when necessary.
+
+Remember, leadership skills can be developed over time with practice and dedication. Consistently working on these strategies can help you become a more effective leader.
+2025-03-08 14:21:25,240 - api_connectivity_test - INFO - 
+✅ All tests passed! The OpenAI client is working correctly.
+2025-03-08 14:21:25,240 - api_connectivity_test - INFO - API connectivity test completed.

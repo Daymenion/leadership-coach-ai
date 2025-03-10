@@ -1,0 +1,42 @@
+2025-03-08 15:17:39,956 - system_test - INFO - Starting system test, log file: D:\PROJECTS\CaseStudies\LeadershipCoach\logs\system_test.log
+2025-03-08 15:17:39,961 - system_test - INFO - Starting comprehensive system tests
+2025-03-08 15:17:39,962 - system_test - INFO - 
+========== Testing OpenAI API Connectivity ==========
+2025-03-08 15:17:39,962 - system_test - INFO - Testing OpenAI API connectivity...
+2025-03-08 15:17:40,277 - system_test - INFO - Testing with Turkish prompt
+2025-03-08 15:17:42,344 - system_test - INFO - OpenAI API connection successful with Turkish
+2025-03-08 15:17:42,344 - system_test - INFO - Testing with English prompt
+2025-03-08 15:17:43,063 - system_test - INFO - OpenAI API connection successful with English
+2025-03-08 15:17:43,063 - system_test - INFO - OpenAI API Connectivity: PASSED
+2025-03-08 15:17:43,063 - system_test - INFO - 
+========== Testing Chunk Processing ==========
+2025-03-08 15:17:43,063 - system_test - INFO - Testing chunk processing...
+2025-03-08 15:17:44,045 - system_test - INFO - Chunk processing test successful
+2025-03-08 15:17:44,047 - system_test - INFO - Original: bu videoda size liderlik becerilerini nasıl geliştireceğinizi anlatcağım. iyi bir lider olmak içinn öncelikle kendinize iyi bakmalısınız. sonra takım arkadaşlarınızı dinlemelisiniz ve onların fikirrlerine saygı göstermelisiniz
+2025-03-08 15:17:44,047 - system_test - INFO - Improved: Bu videoda size liderlik becerilerini nasıl geliştireceğinizi anlatacağım. İyi bir lider olmak için öncelikle kendinize iyi bakmalısınız. Sonra takım arkadaşlarınızı dinlemeli ve onların fikirlerine saygı göstermelisiniz.
+2025-03-08 15:17:44,048 - system_test - INFO - Chunk Processing: PASSED
+2025-03-08 15:17:44,048 - system_test - INFO - 
+========== Testing Vector Store ==========
+2025-03-08 15:17:44,048 - system_test - INFO - Testing vector store...
+2025-03-08 15:17:44,225 - system_test - INFO - Created temporary vector store at C:\Users\simur\AppData\Local\Temp\tmp5wv3toj2
+2025-03-08 15:17:47,219 - system_test - INFO - Vector store search returned 2 results
+2025-03-08 15:17:47,219 - system_test - INFO - Top result: Etkili iletişim, başarılı liderliğin temel taşlarından biridir. (Score: 0.5363)
+2025-03-08 15:17:47,223 - system_test - INFO - Removed temporary vector store: C:\Users\simur\AppData\Local\Temp\tmp5wv3toj2
+2025-03-08 15:17:47,223 - system_test - INFO - Vector Store: PASSED
+2025-03-08 15:17:47,223 - system_test - INFO - 
+========== Testing Response Generation ==========
+2025-03-08 15:17:47,223 - system_test - INFO - Testing response generation...
+2025-03-08 15:17:49,452 - system_test - INFO - Response generation test successful
+2025-03-08 15:17:49,453 - system_test - INFO - Query: Liderlik yeteneklerimi nasıl geliştirebilirim?
+2025-03-08 15:17:49,453 - system_test - INFO - Response: Liderlik yeteneklerinizi geliştirmek için birkaç önemli adım atabilirsiniz. Öncelikle, pratik yapman...
+2025-03-08 15:17:49,453 - system_test - INFO - Response Generation: PASSED
+2025-03-08 15:17:49,454 - system_test - INFO - 
+========== Test Summary ==========
+2025-03-08 15:17:49,454 - system_test - INFO - Total Tests: 4
+2025-03-08 15:17:49,454 - system_test - INFO - Passed: 4
+2025-03-08 15:17:49,454 - system_test - INFO - Failed: 0
+2025-03-08 15:17:49,455 - system_test - INFO - OpenAI API Connectivity: PASSED
+2025-03-08 15:17:49,455 - system_test - INFO - Chunk Processing: PASSED
+2025-03-08 15:17:49,455 - system_test - INFO - Vector Store: PASSED
+2025-03-08 15:17:49,455 - system_test - INFO - Response Generation: PASSED
+2025-03-08 15:17:49,455 - system_test - INFO - System test completed. Check the log file for details.

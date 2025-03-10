@@ -1,0 +1,2322 @@
+[
+  {
+    "text": "Mert Haba.",
+    "start": 0.0,
+    "duration": 7.0
+  },
+  {
+    "text": "Mert Haba. Mert Hilmi Güvenal.",
+    "start": 7.0,
+    "duration": 5.0
+  },
+  {
+    "text": "Tecrübe konuşuyordu. Bugün konum Avukat Mehmet Günd. Hoş geldin.",
+    "start": 12.0,
+    "duration": 7.0
+  },
+  {
+    "text": "Merhaba. Merhaba. Türkiye'nin en büyük Hükübe Olarından biraderi kurduğun ve hala başındasın.",
+    "start": 19.0,
+    "duration": 5.0
+  },
+  {
+    "text": "Daha iyi yargı dernenin kurduğun ve başkanlığını yapıyorsun.",
+    "start": 24.0,
+    "duration": 5.0
+  },
+  {
+    "text": "Kurumla açma anlamında Hükübe Olarından örnek çalışmaların var.",
+    "start": 29.0,
+    "duration": 4.0
+  },
+  {
+    "text": "El son yapay zeka ve otomasyon komlarında çalışmalarında duyuyor.",
+    "start": 33.0,
+    "duration": 5.0
+  },
+  {
+    "text": "Serser yapay zeka tarafından başlayalım.",
+    "start": 38.0,
+    "duration": 3.0
+  },
+  {
+    "text": "Yapay zeka yargıya ne getirecek? Yapay zekaya dince niye alnıyoruz?",
+    "start": 41.0,
+    "duration": 5.0
+  },
+  {
+    "text": "Yani yargıçlarını yerinlim olacak. Yoksa arka planı da yapılan işleri mi",
+    "start": 46.0,
+    "duration": 4.0
+  },
+  {
+    "text": "hafif edecek, benimlik mi getirecek? Savcıların yerinlim olacak.",
+    "start": 50.0,
+    "duration": 4.0
+  },
+  {
+    "text": "Ne iş yörecek? Yapay zeka, kısavadede ve uzun vadede.",
+    "start": 54.0,
+    "duration": 5.0
+  },
+  {
+    "text": "Başına şöyle başlayabiliriz.",
+    "start": 59.0,
+    "duration": 2.0
+  },
+  {
+    "text": "Hakimlerin savcılarını yaptıkları işlerin aynısını bilgisayar programlar da yapıyor.",
+    "start": 61.0,
+    "duration": 5.0
+  },
+  {
+    "text": "Aynı mantık kuralarına dayalı olarak sonuçlar çıkarıyorlar.",
+    "start": 66.0,
+    "duration": 4.0
+  },
+  {
+    "text": "Bazen suçlama yapıyorlar. Bazen karar veriyorlar onlara.",
+    "start": 70.0,
+    "duration": 4.0
+  },
+  {
+    "text": "Bir hakimin bir karar verebilmesi için önüne gelen deliller yani verirler.",
+    "start": 74.0,
+    "duration": 5.0
+  },
+  {
+    "text": "Bunlar değerlendirmesi gerekiyor.",
+    "start": 79.0,
+    "duration": 2.0
+  },
+  {
+    "text": "Bir taraftan değerlendirdiği deliller üzerinde bir kuralar uygulaması gerekiyor.",
+    "start": 82.0,
+    "duration": 5.0
+  },
+  {
+    "text": "Yani bilgisayar programlarındaki işleler uygulaması gerekiyor.",
+    "start": 87.0,
+    "duration": 5.0
+  },
+  {
+    "text": "Öyle yapınca bilgisayarın yapacağı şey ile hakimin yapacağı şey.",
+    "start": 92.0,
+    "duration": 4.0
+  },
+  {
+    "text": "Mantık sal olarak birbirinin aynı, fark bilgisayarların işlem yeteneği,",
+    "start": 96.0,
+    "duration": 5.0
+  },
+  {
+    "text": "insanların işlem yeteneğine henüz yetişmedi. Ama günün birisinde bunu mümkün olarak görüyorum ben.",
+    "start": 101.0,
+    "duration": 7.0
+  },
+  {
+    "text": "Peki şu anda tüm hakimlerin tek bir coğrafya düşünürsek,",
+    "start": 109.0,
+    "duration": 5.0
+  },
+  {
+    "text": "Türkiye'de veya Fransa'da aynı davada aynı kararları aldığını düşünüyor muyuz?",
+    "start": 114.0,
+    "duration": 6.0
+  },
+  {
+    "text": "Çünkü bilgisayar öyle bir yöntel isteyecek.",
+    "start": 120.0,
+    "duration": 3.0
+  },
+  {
+    "text": "Şumlar gerçekleşiyse karar şi olmalı diyecek.",
+    "start": 123.0,
+    "duration": 3.0
+  },
+  {
+    "text": "O zamanda hakimlerin kararlarından farklı kararda çıkacak.",
+    "start": 126.0,
+    "duration": 3.0
+  },
+  {
+    "text": "Çünkü okuyorum, Amerika'da böyle paraya olarak çalıştırdıkları algoritmalar,",
+    "start": 129.0,
+    "duration": 4.0
+  },
+  {
+    "text": "hakimlerle çoğunlukla aynı karar veriyorlar.",
+    "start": 133.0,
+    "duration": 3.0
+  },
+  {
+    "text": "A bazıları farklı oluyor.",
+    "start": 137.0,
+    "duration": 2.0
+  },
+  {
+    "text": "Tabii kuraları nasıl anlandırdıkları ne kadar net olabilirse önüne gelen verilen ne kadar birbirinin aynı olursa sonuçta",
+    "start": 139.0,
+    "duration": 8.0
+  },
+  {
+    "text": "nedensellik kurala gereğince aynı sonuçlara varması gerekiyor.",
+    "start": 147.0,
+    "duration": 4.0
+  },
+  {
+    "text": "Bu konuda bilgisayar programları daha isabetli sonuçlar verebilirler.",
+    "start": 151.0,
+    "duration": 4.0
+  },
+  {
+    "text": "Çünkü insanlaki unutma, atlama bazı şeyleri görmeme gibi şeyler.",
+    "start": 155.0,
+    "duration": 5.0
+  },
+  {
+    "text": "Duygusallığında aslında bir mantıki temeli olduğunu düşünüyorum ben.",
+    "start": 161.0,
+    "duration": 4.0
+  },
+  {
+    "text": "Bilgisayar programlar da duygusallı olabilirler.",
+    "start": 165.0,
+    "duration": 3.0
+  },
+  {
+    "text": "Belli işlem hızına bulaştıklarız ama bu mümkün olabilir.",
+    "start": 168.0,
+    "duration": 4.0
+  },
+  {
+    "text": "Şöyle bir soru soracağım ben size.",
+    "start": 172.0,
+    "duration": 2.0
+  },
+  {
+    "text": "Acaba robotlar, karar verir, hale gelebilirler mi?",
+    "start": 174.0,
+    "duration": 4.0
+  },
+  {
+    "text": "Evet gelebilirler.",
+    "start": 178.0,
+    "duration": 1.0
+  },
+  {
+    "text": "Geldikleri zaman idam kararı verebilirler mi?",
+    "start": 179.0,
+    "duration": 3.0
+  },
+  {
+    "text": "Onu vermeyi sokala çok vermiyoruz idam karar.",
+    "start": 182.0,
+    "duration": 2.0
+  },
+  {
+    "text": "Zaten ilamında olmasında zaten ama birçok karar ağırlaştıracağız.",
+    "start": 185.0,
+    "duration": 4.0
+  },
+  {
+    "text": "Sorgulanacaktır herhalde.",
+    "start": 189.0,
+    "duration": 1.0
+  },
+  {
+    "text": "Bunu robot verdi.",
+    "start": 190.0,
+    "duration": 1.0
+  },
+  {
+    "text": "Hakim olsa daha hafif bir karar verirdi diye sorgulanacak.",
+    "start": 191.0,
+    "duration": 4.0
+  },
+  {
+    "text": "Şimdi daima bir alternatif olacak.",
+    "start": 195.0,
+    "duration": 2.0
+  },
+  {
+    "text": "Evet aslında bunu sorgulanıyor.",
+    "start": 197.0,
+    "duration": 1.0
+  },
+  {
+    "text": "Şu anda hakimin alternatifi yok.",
+    "start": 198.0,
+    "duration": 1.0
+  },
+  {
+    "text": "Yani bir tek Amerika'da gördüğümüz filmlerde Yüri var.",
+    "start": 199.0,
+    "duration": 4.0
+  },
+  {
+    "text": "Birisi diyebilir ki bizde Yüri olsa karar farklı çıkabilir.",
+    "start": 203.0,
+    "duration": 3.0
+  },
+  {
+    "text": "De diyebilir.",
+    "start": 206.0,
+    "duration": 1.0
+  },
+  {
+    "text": "Ama onun dışında alternatif yok şu anda yargı sistemine.",
+    "start": 207.0,
+    "duration": 4.0
+  },
+  {
+    "text": "Ama bunu kabul etmemiz lazım ki.",
+    "start": 212.0,
+    "duration": 2.0
+  },
+  {
+    "text": "Örneğin, otonom araçlar bu kararı veriyor olacaklar.",
+    "start": 214.0,
+    "duration": 4.0
+  },
+  {
+    "text": "Örneğin şu anda batı da tartışır.",
+    "start": 218.0,
+    "duration": 3.0
+  },
+  {
+    "text": "Sürcüsü süz arabalar.",
+    "start": 221.0,
+    "duration": 1.0
+  },
+  {
+    "text": "Sürcüsü süz arabalar araçlar.",
+    "start": 222.0,
+    "duration": 1.0
+  },
+  {
+    "text": "Şu anda tartışıyorlar.",
+    "start": 223.0,
+    "duration": 2.0
+  },
+  {
+    "text": "Biz bu araçların algoritmalarına hangi etik kuraları yerleştirmeliği ziyete tartışıyorlar?",
+    "start": 225.0,
+    "duration": 6.0
+  },
+  {
+    "text": "Örneğin bir araç var.",
+    "start": 231.0,
+    "duration": 2.0
+  },
+  {
+    "text": "Gidiyor.",
+    "start": 233.0,
+    "duration": 1.0
+  },
+  {
+    "text": "Kaza'a kaçınılmaz.",
+    "start": 234.0,
+    "duration": 1.0
+  },
+  {
+    "text": "Sol tarafta gençler var.",
+    "start": 235.0,
+    "duration": 1.0
+  },
+  {
+    "text": "Sağ tarafta yaşlılar var.",
+    "start": 236.0,
+    "duration": 1.0
+  },
+  {
+    "text": "Ya da biraz ileridesi yağlar var.",
+    "start": 237.0,
+    "duration": 2.0
+  },
+  {
+    "text": "Bu tarafta da beyazlar var.",
+    "start": 239.0,
+    "duration": 2.0
+  },
+  {
+    "text": "Kaza'a kaçınılmaz.",
+    "start": 241.0,
+    "duration": 2.0
+  },
+  {
+    "text": "Direktionu bir tarafa kıracak ama ne tarafa kıracak?",
+    "start": 243.0,
+    "duration": 3.0
+  },
+  {
+    "text": "Ölme ya da yaralamaya neden olacak?",
+    "start": 246.0,
+    "duration": 2.0
+  },
+  {
+    "text": "Bunu nasıl yapacağı konusunu o bilgisayar programın içerisine koyuyorlar.",
+    "start": 248.0,
+    "duration": 4.0
+  },
+  {
+    "text": "Yani aslında bilgisayar programı kimin öleceğine, kimin kalacağına karar veriyor?",
+    "start": 252.0,
+    "duration": 5.0
+  },
+  {
+    "text": "Olabilecek.",
+    "start": 257.0,
+    "duration": 1.0
+  },
+  {
+    "text": "Onun için bizim şimdiden bu meseleleri düşünüp hem etik,",
+    "start": 258.0,
+    "duration": 4.0
+  },
+  {
+    "text": "alaki temellerde çözmemiz gerekiyor.",
+    "start": 262.0,
+    "duration": 3.0
+  },
+  {
+    "text": "Hem de teknolojik olarak bunları hazırlıklı olmamız lazım.",
+    "start": 265.0,
+    "duration": 3.0
+  },
+  {
+    "text": "Yani bilgisayar programlar insanların yerine geçebilir.",
+    "start": 268.0,
+    "duration": 3.0
+  },
+  {
+    "text": "İnsanlar yaptıkları şeyin altında kalabilirler.",
+    "start": 271.0,
+    "duration": 4.0
+  },
+  {
+    "text": "Veremlik tarafından helal gelmesini beklemeliyiz.",
+    "start": 275.0,
+    "duration": 3.0
+  },
+  {
+    "text": "Çünkü bilhassa Türkiye'de avukatlara verilen yetkiler çok geniş.",
+    "start": 278.0,
+    "duration": 7.0
+  },
+  {
+    "text": "Bir anlamda sorumluklarda çok geniş.",
+    "start": 285.0,
+    "duration": 3.0
+  },
+  {
+    "text": "Belirli işlem türlerini sadece ilgili avukat yiyor.",
+    "start": 288.0,
+    "duration": 4.0
+  },
+  {
+    "text": "Esasını av o işlem türlü yapmak için",
+    "start": 292.0,
+    "duration": 3.0
+  },
+  {
+    "text": "böyle 4. hukuk fakültesi okuyup barostacı falan yapmaya da gerek yokken.",
+    "start": 295.0,
+    "duration": 4.0
+  },
+  {
+    "text": "Çok da önemli bir işlem türlü değil.",
+    "start": 299.0,
+    "duration": 4.0
+  },
+  {
+    "text": "Şimdi bütün bu işlemlerin otomasyona geçmesi mümkün olabilir?",
+    "start": 303.0,
+    "duration": 3.0
+  },
+  {
+    "text": "Hepsi mümkün olabilir.",
+    "start": 306.0,
+    "duration": 2.0
+  },
+  {
+    "text": "Hukuk tahsil yapmış olanların yapması gereken işlenler de başkılan yapması gereken işlenler gibi.",
+    "start": 308.0,
+    "duration": 7.0
+  },
+  {
+    "text": "Hukuk tahsil yapmış olanlara bazı tekeller tanınıyor.",
+    "start": 315.0,
+    "duration": 3.0
+  },
+  {
+    "text": "Çünkü hukuk konusu hassas bir konudu.",
+    "start": 318.0,
+    "duration": 2.0
+  },
+  {
+    "text": "Toplumu bir arada tutan kurallar bütün.",
+    "start": 320.0,
+    "duration": 3.0
+  },
+  {
+    "text": "Onun için avukatlara teke tanınması doğru hakim olanların da hukuk mevzunu olması gerektiği.",
+    "start": 323.0,
+    "duration": 7.0
+  },
+  {
+    "text": "İyi hukuk eğitim olması gerektiği konusunda kurallarımız net bunların tartışılması.",
+    "start": 330.0,
+    "duration": 5.0
+  },
+  {
+    "text": "Bence şu anda erken fakat hakimlerin ya da avukatların yapacakları işleri bilgisayarlara verebilir miyiz sorusunda evet verebiliriz.",
+    "start": 335.0,
+    "duration": 9.0
+  },
+  {
+    "text": "Mesela bir hakimin yapacağı işler nelerden oluşturuyor dersek bir.",
+    "start": 344.0,
+    "duration": 6.0
+  },
+  {
+    "text": "Bu konuyla ilgili olarak verileri yani delileri de yerlerle emdirecek.",
+    "start": 350.0,
+    "duration": 4.0
+  },
+  {
+    "text": "İki bununla ilgili mevzata bakacak, kağınına bakacak, yönetmiliye bakacak.",
+    "start": 354.0,
+    "duration": 4.0
+  },
+  {
+    "text": "Doktirinle literatürde bu konular da neler düşünülüyor, onları bulacak, işde atları bulacak.",
+    "start": 358.0,
+    "duration": 6.0
+  },
+  {
+    "text": "Bunlar nasıl uygulanıyor diye.",
+    "start": 364.0,
+    "duration": 2.0
+  },
+  {
+    "text": "Onlara göre de kendi yolunu çizyecek bir karar verecek.",
+    "start": 366.0,
+    "duration": 3.0
+  },
+  {
+    "text": "Şimdi bu işlemlerin en sondaki karar verme akşamasına gelmeden önceki kısmı kademeli olarak bilgisayarlara emanet edilebiliriz.",
+    "start": 369.0,
+    "duration": 8.0
+  },
+  {
+    "text": "Yani mesela ben kütümaneyi gidip iki saat araştırma yapıp da bulacağım mevzata bir robot bana beş dakika da bulabilir.",
+    "start": 377.0,
+    "duration": 8.0
+  },
+  {
+    "text": "Bunları yaptırdığımız zaman şöyle bir verimlik ortaya çıkıyor.",
+    "start": 385.0,
+    "duration": 6.0
+  },
+  {
+    "text": "Mesela yargıta ile karar verilmeyi bekleyen bir milyonla fazla dosyalar geçen yargıta başkanı açıkladı.",
+    "start": 391.0,
+    "duration": 6.0
+  },
+  {
+    "text": "Oradaki hakimlerin bunları inceleyip bir karar vermesi gerekeği ama karar verebilmek için bir ad önce saydığım işlemleri yapacaklar.",
+    "start": 397.0,
+    "duration": 7.0
+  },
+  {
+    "text": "Bu işlemlerin ne kadar çoğunu robotlara yaptırabilirsek o kadar etki yaratmış oluruz.",
+    "start": 405.0,
+    "duration": 7.0
+  },
+  {
+    "text": "Mesela bana göre şu anda yüzde kırkın robotlara yaptırmak kolaylıkla mümkün.",
+    "start": 412.0,
+    "duration": 4.0
+  },
+  {
+    "text": "Yüzde kırkın robotlara yaptırırsak 1 milyon davadan yüzde kırkınla.",
+    "start": 416.0,
+    "duration": 5.0
+  },
+  {
+    "text": "Yani 400 bin tanesini çözmüş gibi bir etki yaratabiliriz.",
+    "start": 421.0,
+    "duration": 4.0
+  },
+  {
+    "text": "Bunu genişleri rekartırmak lazım.",
+    "start": 425.0,
+    "duration": 2.0
+  },
+  {
+    "text": "Onun yüzde 70-80 sene çıkardığımız zaman o zaman bizim yargıda yaptığımız işlerin kalitesi de yukarıya gider, hızlanır o delicide.",
+    "start": 427.0,
+    "duration": 9.0
+  },
+  {
+    "text": "Öyle oğlumlu verimlik etkileri olur.",
+    "start": 436.0,
+    "duration": 3.0
+  },
+  {
+    "text": "Kurduğun firma ticari, uluslarası genelde işkomlarına bakan bir firma ve 170 kişiden oluşan İstanbul Ankara İzmir'de bir olur olan bir firma.",
+    "start": 439.0,
+    "duration": 16.0
+  },
+  {
+    "text": "Bunun kurum sallaşmasından bahsediyorsun.",
+    "start": 455.0,
+    "duration": 2.0
+  },
+  {
+    "text": "Hatta dil oytun ilgion etilen şirketler istesinde bir ufirmasını görünce ben de biraz şaşırdım.",
+    "start": 457.0,
+    "duration": 7.0
+  },
+  {
+    "text": "Bu şahsi mi iş değil miydi sonuçta?",
+    "start": 464.0,
+    "duration": 3.0
+  },
+  {
+    "text": "Benim şahsi işim, kanun benim şirket kurmona engelliyor.",
+    "start": 467.0,
+    "duration": 4.0
+  },
+  {
+    "text": "Şirket kurmona engelliyor hatta bir şehirde bir bir uğa açmak zorunda.",
+    "start": 471.0,
+    "duration": 5.0
+  },
+  {
+    "text": "Bir baroya kayda olmak zorunda.",
+    "start": 476.0,
+    "duration": 2.0
+  },
+  {
+    "text": "Türkiye'nin her tarafında iş yapabilirim.",
+    "start": 478.0,
+    "duration": 2.0
+  },
+  {
+    "text": "Fakat İzmir'de Ankara'da çalışma bürolarım var oradaki işlerimi yönetmek zorundayım.",
+    "start": 480.0,
+    "duration": 7.0
+  },
+  {
+    "text": "Bu kadar büyüklüğe ulaşmış olması aslında Türkiye'deki akılma men gerekliliği.",
+    "start": 487.0,
+    "duration": 6.0
+  },
+  {
+    "text": "Yani ben müvekillerime hizmet verebilmek için iyi hizmet verebilmek için böyle bir kadroya ulaşmam gerekiyor.",
+    "start": 493.0,
+    "duration": 6.0
+  },
+  {
+    "text": "Kadro büyüdüğü zaman ise bunu iyi yönetmem gerekiyor.",
+    "start": 499.0,
+    "duration": 3.0
+  },
+  {
+    "text": "İyi yönetmenin yolu kurallara bağlı yönettim.",
+    "start": 502.0,
+    "duration": 4.0
+  },
+  {
+    "text": "Bu ne? Kurallara bağlı yönetimin adı bana göre kurumlaşmanın açıklaması.",
+    "start": 506.0,
+    "duration": 5.0
+  },
+  {
+    "text": "Yani kurumlaşmak.",
+    "start": 511.0,
+    "duration": 1.0
+  },
+  {
+    "text": "İsterseniz şirket olun, isterseniz olmayın.",
+    "start": 512.0,
+    "duration": 3.0
+  },
+  {
+    "text": "Ama birden fazla insanı bir araya bulundurduğunuzda.",
+    "start": 515.0,
+    "duration": 3.0
+  },
+  {
+    "text": "Yaptığınız işleri önceden belirlenmiş kurallara bağlı olarak gürütmektir.",
+    "start": 518.0,
+    "duration": 4.0
+  },
+  {
+    "text": "Ben genellikle kurumlaşmayı şirketleşmeyiyle karıştırırlar.",
+    "start": 522.0,
+    "duration": 5.0
+  },
+  {
+    "text": "Kurumlaşmak için şirketleşmek şart değildir ama şirketleşmek.",
+    "start": 527.0,
+    "duration": 5.0
+  },
+  {
+    "text": "Kurumlaşma konusunda çok hazır çözümler ver.",
+    "start": 532.0,
+    "duration": 3.0
+  },
+  {
+    "text": "Mesela muhasebeniz bilançaya saasına göre olur.",
+    "start": 535.0,
+    "duration": 4.0
+  },
+  {
+    "text": "Önnen kararlar aldığınız bir genell kurulunuz olur, bir yönetim kurulunuz olur, bir denetim kurulunuz olur.",
+    "start": 539.0,
+    "duration": 6.0
+  },
+  {
+    "text": "Bunlar da belli kurallar üzerine yürürler.",
+    "start": 545.0,
+    "duration": 3.0
+  },
+  {
+    "text": "Bir kişiye bağlı değildir şirketlerime.",
+    "start": 548.0,
+    "duration": 4.0
+  },
+  {
+    "text": "Avukatlarda ben çok gördüm.",
+    "start": 552.0,
+    "duration": 2.0
+  },
+  {
+    "text": "Çok böyle önde gelen avukatlık büroları çıktasız da gördünüz.",
+    "start": 554.0,
+    "duration": 5.0
+  },
+  {
+    "text": "Bir yaşada sonra avukat öldü. Avukatlık birosta kayboldu.",
+    "start": 559.0,
+    "duration": 4.0
+  },
+  {
+    "text": "Şirketleşmenin olduğu yerlerde kurumlaşmayı sürdürme imkanına sahip oluyorsunuz.",
+    "start": 563.0,
+    "duration": 6.0
+  },
+  {
+    "text": "O da toplum için kalıcı avukatlık kalıcı gelenekler ve verimli kanlamına geliyor.",
+    "start": 569.0,
+    "duration": 5.0
+  },
+  {
+    "text": "Peki markalaşmakta bulmu demek çünkü avukatlık filmada Amerika'daki bir dil, amarikada görüyoruz.",
+    "start": 574.0,
+    "duration": 5.0
+  },
+  {
+    "text": "Reklamlar veriyorlar. Avukatlık filmada Türkiye'de bir reklam yasa var.",
+    "start": 579.0,
+    "duration": 4.0
+  },
+  {
+    "text": "Birçok ülkede reklam yasa var.",
+    "start": 583.0,
+    "duration": 2.0
+  },
+  {
+    "text": "Bunlar annen markalaşmak nasıl mıyım?",
+    "start": 585.0,
+    "duration": 3.0
+  },
+  {
+    "text": "Markalaşmak kaçınılmaz. Markaşı edemektir mal veya hizmetin kökenini belirtiyor.",
+    "start": 588.0,
+    "duration": 4.0
+  },
+  {
+    "text": "Kim veriyor bu hizmeti diye bir ayırma aracı.",
+    "start": 592.0,
+    "duration": 3.0
+  },
+  {
+    "text": "Yani bir avukat diğerlerinden farklılaştığı zaman markalaşıyor.",
+    "start": 595.0,
+    "duration": 4.0
+  },
+  {
+    "text": "Benim şimdi ismi marka gibi bir değer görüyor. Başkaları da öyle.",
+    "start": 599.0,
+    "duration": 4.0
+  },
+  {
+    "text": "Marka olunca markaş bunu sağlayan onun üzerine yatırım yapıyorsunuz.",
+    "start": 603.0,
+    "duration": 4.0
+  },
+  {
+    "text": "Ayrı da cicili ve kalitayı artırmaya çalışıyorsunuz.",
+    "start": 607.0,
+    "duration": 3.0
+  },
+  {
+    "text": "Lissidim kurulu kararları var barullar birliğinin avukatlar kendilerini çalışmaları ile gösteri bildiler.",
+    "start": 610.0,
+    "duration": 6.0
+  },
+  {
+    "text": "Mesela markala yazar işi yapar, iş yaptığımda konuşulur.",
+    "start": 616.0,
+    "duration": 3.0
+  },
+  {
+    "text": "Fakat ben avukatlık şu tür işleri yaparım.",
+    "start": 619.0,
+    "duration": 2.0
+  },
+  {
+    "text": "Direktlemi verirsiniz. Onlara elimizdeki sistem engell oluyor.",
+    "start": 621.0,
+    "duration": 4.0
+  },
+  {
+    "text": "Bu engell olunca avukatlar arasında avukatlık tekelimden doğan memfaatim paylaşması konusundaki kuralar.",
+    "start": 625.0,
+    "duration": 7.0
+  },
+  {
+    "text": "Biz oraya doğru odaklanıyoruz.",
+    "start": 632.0,
+    "duration": 2.0
+  },
+  {
+    "text": "Oysa esas odak vatandaşa topluma yarattığımız fayda ve vatandaşın mufaydaya erişebilmesin oklarsın.",
+    "start": 634.0,
+    "duration": 9.0
+  },
+  {
+    "text": "Daha iyi arıgı derneğini kurduğum.",
+    "start": 643.0,
+    "duration": 4.0
+  },
+  {
+    "text": "Neden?",
+    "start": 647.0,
+    "duration": 2.0
+  },
+  {
+    "text": "Ben 1990 yıllar, 90'lı yıllarda poli pekkin kayımların avukatlarını üslendim.",
+    "start": 649.0,
+    "duration": 8.0
+  },
+  {
+    "text": "Piyasıverine o zaman tanıda.",
+    "start": 657.0,
+    "duration": 1.0
+  },
+  {
+    "text": "Ben bu 10 yılı geçen çalışmalarımız sonucunda şunu gördüm ki Türkiye'de yapılması gereken çok iş var.",
+    "start": 658.0,
+    "duration": 7.0
+  },
+  {
+    "text": "Yargının daha iyi hizmet verebilmesi için topluma katkı yapıyor olması için toplumdaki bozuşmayı önlüyo ve iyileştirici yönde etki gösterebilmesi için çok yapılması gereken şey var.",
+    "start": 666.0,
+    "duration": 13.0
+  },
+  {
+    "text": "İlk çıkışlı oktam şu yüdo.",
+    "start": 679.0,
+    "duration": 2.0
+  },
+  {
+    "text": "Bir şey tesbitettim ve dedim ki bu ben de kalamaz.",
+    "start": 681.0,
+    "duration": 3.0
+  },
+  {
+    "text": "Tesbitettiğini de şey de şu.",
+    "start": 684.0,
+    "duration": 2.0
+  },
+  {
+    "text": "Bir uuşmazlık çıktığında bunu mahkemeye götürüyoruz.",
+    "start": 686.0,
+    "duration": 3.0
+  },
+  {
+    "text": "Fakat hakimin o uuşmazı en iyi çözmesi için gerekli olan bilgiyi vermiyoruz.",
+    "start": 690.0,
+    "duration": 5.0
+  },
+  {
+    "text": "Yani söylediklerimizin yalan olmasına sağlınmak olarak görüyor.",
+    "start": 695.0,
+    "duration": 6.0
+  },
+  {
+    "text": "Ondan sonra çözümle ilgili olan delilleri göstermiyoruz.",
+    "start": 701.0,
+    "duration": 4.0
+  },
+  {
+    "text": "Yani tam ve dürüst olarak açıklamıyoruz bunları.",
+    "start": 705.0,
+    "duration": 3.0
+  },
+  {
+    "text": "Açıklamadığımız zaman da hakimle doğru karar bekliyoruz.",
+    "start": 708.0,
+    "duration": 3.0
+  },
+  {
+    "text": "Tabii ki doğru olamaz.",
+    "start": 711.0,
+    "duration": 1.0
+  },
+  {
+    "text": "Ve bir kere yargıyla böyle karşılaştığımız zaman o alehimize çalıştığı için",
+    "start": 712.0,
+    "duration": 6.0
+  },
+  {
+    "text": "öbür türlü davranmaya başlıyoruz.",
+    "start": 719.0,
+    "duration": 1.0
+  },
+  {
+    "text": "Yalan söylemeye başlıyoruz.",
+    "start": 720.0,
+    "duration": 2.0
+  },
+  {
+    "text": "Şimdi mahkemeye yalan söylemenin suç olduğu ülkelerde",
+    "start": 722.0,
+    "duration": 3.0
+  },
+  {
+    "text": "yargı çok ileride bu genellikle Andızaaksan ülkelere",
+    "start": 725.0,
+    "duration": 3.0
+  },
+  {
+    "text": "bizim ülkemizde ise savunak olarak görüyor.",
+    "start": 728.0,
+    "duration": 3.0
+  },
+  {
+    "text": "Ve bu da toplumda bozucu bir şey neden oluyor.",
+    "start": 731.0,
+    "duration": 3.0
+  },
+  {
+    "text": "Hem de verip sizceye nedeni o.",
+    "start": 734.0,
+    "duration": 2.0
+  },
+  {
+    "text": "Ben bu yanlışla düzeltmek için yola çıkmıştım.",
+    "start": 736.0,
+    "duration": 3.0
+  },
+  {
+    "text": "Sonra yola çıktığımda paydaşlar aradım.",
+    "start": 739.0,
+    "duration": 3.0
+  },
+  {
+    "text": "O paydaşlarım bana deliler ki yargıl sorum sadece bu değil.",
+    "start": 742.0,
+    "duration": 3.0
+  },
+  {
+    "text": "Yani buna da yardımcı olalım da ama diğer konular da çözelim.",
+    "start": 746.0,
+    "duration": 3.0
+  },
+  {
+    "text": "Öyle olunca işte daha yargı derneği kuruldu daha önce",
+    "start": 749.0,
+    "duration": 4.0
+  },
+  {
+    "text": "imisiyatif de bundan sonra da ki oyun plan nedir?",
+    "start": 753.0,
+    "duration": 4.0
+  },
+  {
+    "text": "Yani ne yapmayı düşünüyorsunuz?",
+    "start": 757.0,
+    "duration": 2.0
+  },
+  {
+    "text": "Ben yaptığım her şeyin ekonomik yararını göstermem gerektiğine inalyarım.",
+    "start": 759.0,
+    "duration": 5.0
+  },
+  {
+    "text": "Birincisi temel sağlam bir fikir olması gerekir.",
+    "start": 764.0,
+    "duration": 3.0
+  },
+  {
+    "text": "Elbette yani yeni özgün bir fikir geliştirdemi düşünüyorum.",
+    "start": 767.0,
+    "duration": 3.0
+  },
+  {
+    "text": "Bu özgün fikirin ekonomik yararını toplum salı yaranı herkese",
+    "start": 770.0,
+    "duration": 4.0
+  },
+  {
+    "text": "göstermek istiyorum.",
+    "start": 774.0,
+    "duration": 2.0
+  },
+  {
+    "text": "İkinci size bunu gösterdiğim zaman farkındalık yaratıp",
+    "start": 776.0,
+    "duration": 4.0
+  },
+  {
+    "text": "kendine yol arkadaşları paydaşlar bulmak istiyorum.",
+    "start": 780.0,
+    "duration": 3.0
+  },
+  {
+    "text": "Bu paydaşlarımla birlikte çalışıp",
+    "start": 783.0,
+    "duration": 2.0
+  },
+  {
+    "text": "o getirdiğim öneri onlar da benimsiyorlar ise.",
+    "start": 785.0,
+    "duration": 4.0
+  },
+  {
+    "text": "Sonra buna yetkilim akamları anlatmak istiyorum.",
+    "start": 789.0,
+    "duration": 3.0
+  },
+  {
+    "text": "Sonra o anlattığım akamlardan bu fayda iyi en başta",
+    "start": 792.0,
+    "duration": 4.0
+  },
+  {
+    "text": "belirlediğim fayda iyi elde edecek bir son üç istiyorum.",
+    "start": 796.0,
+    "duration": 4.0
+  },
+  {
+    "text": "Ben şöyle inalayıyorum.",
+    "start": 800.0,
+    "duration": 2.0
+  },
+  {
+    "text": "Türkiye 80-2 milyonlar şimdi olması gereken yerin çok yerisinde",
+    "start": 802.0,
+    "duration": 4.0
+  },
+  {
+    "text": "bunu yapmak çok kolay.",
+    "start": 806.0,
+    "duration": 2.0
+  },
+  {
+    "text": "Türkiye'nin dünyanın sekizin sekiz tane büyük ekonomider arasında",
+    "start": 808.0,
+    "duration": 4.0
+  },
+  {
+    "text": "yer almasını arzuyorum.",
+    "start": 812.0,
+    "duration": 2.0
+  },
+  {
+    "text": "Bu ekonomik fayda ancak hukuk ve yargı yoluyla mümkün olabileceğini inalayıyorum.",
+    "start": 814.0,
+    "duration": 5.0
+  },
+  {
+    "text": "Bu yönde fayda göstererek ilerlersek olacağını da inalayıyorum.",
+    "start": 819.0,
+    "duration": 5.0
+  },
+  {
+    "text": "Evet. Geri gidersek konuya bos kır dere.",
+    "start": 824.0,
+    "duration": 4.0
+  },
+  {
+    "text": "Bu da bos kır dere.",
+    "start": 828.0,
+    "duration": 2.0
+  },
+  {
+    "text": "Bu da ilgili bir kitap da yazdın.",
+    "start": 830.0,
+    "duration": 3.0
+  },
+  {
+    "text": "Bos kırdan dünyaya avukat olmak diye.",
+    "start": 833.0,
+    "duration": 3.0
+  },
+  {
+    "text": "Şimdi böyle kalı bir kitama ama çabuk okunuyor.",
+    "start": 836.0,
+    "duration": 2.0
+  },
+  {
+    "text": "Ben okudum.",
+    "start": 838.0,
+    "duration": 2.0
+  },
+  {
+    "text": "Çok tabii bir ilk kitap özelliği taşıyor.",
+    "start": 840.0,
+    "duration": 3.0
+  },
+  {
+    "text": "İçinde birçok şey var.",
+    "start": 843.0,
+    "duration": 2.0
+  },
+  {
+    "text": "Hem öz geçmiş.",
+    "start": 845.0,
+    "duration": 3.0
+  },
+  {
+    "text": "Hem avukatlara genç avukatlara tavsiyeler.",
+    "start": 848.0,
+    "duration": 3.0
+  },
+  {
+    "text": "Hem belirleriyle kamuoyansmış.",
+    "start": 851.0,
+    "duration": 3.0
+  },
+  {
+    "text": "Dostya'da biraz perdarkası bilgileri.",
+    "start": 854.0,
+    "duration": 4.0
+  },
+  {
+    "text": "Bence her avukatın okumasında fayda olan bir kitap.",
+    "start": 858.0,
+    "duration": 4.0
+  },
+  {
+    "text": "Bir kitabın daha var.",
+    "start": 862.0,
+    "duration": 2.0
+  },
+  {
+    "text": "Türkiye'nin ortademokası sorumları ve çözüm yolu diye bunu da şöyle göstereyim.",
+    "start": 864.0,
+    "duration": 4.0
+  },
+  {
+    "text": "Gösterim.",
+    "start": 868.0,
+    "duration": 1.0
+  },
+  {
+    "text": "Evet.",
+    "start": 869.0,
+    "duration": 1.0
+  },
+  {
+    "text": "Bunu da biraz daha iyi yargı, neyi çalışmalarından sonra oluşturduğunu düşünüyorum.",
+    "start": 870.0,
+    "duration": 6.0
+  },
+  {
+    "text": "Şimdi tabii hikayen ilginç biraz da tragici.",
+    "start": 876.0,
+    "duration": 6.0
+  },
+  {
+    "text": "Konyada genç yaşta babayı ve genç kardeşi kaybediyorsun.",
+    "start": 882.0,
+    "duration": 8.0
+  },
+  {
+    "text": "Nasıl etkiledi bu çocukluk yılları tüm hayatını ve gelişmeli?",
+    "start": 890.0,
+    "duration": 4.0
+  },
+  {
+    "text": "Öyle düşünsöylemek istiyorum.",
+    "start": 894.0,
+    "duration": 2.0
+  },
+  {
+    "text": "Kitabın adı avukat olmak ama aslında bos kırdan zincirleri kırıp çıkmanın hikayesi.",
+    "start": 896.0,
+    "duration": 5.0
+  },
+  {
+    "text": "Anadolu çocukların hepsini hikayesi.",
+    "start": 901.0,
+    "duration": 3.0
+  },
+  {
+    "text": "Ben yazabilecek durumdaydım.",
+    "start": 904.0,
+    "duration": 2.0
+  },
+  {
+    "text": "Eğitimim itibayla buna sayetim.",
+    "start": 906.0,
+    "duration": 3.0
+  },
+  {
+    "text": "Yani ben de ben de daha fazla sınıf gerçekleştirmiş.",
+    "start": 909.0,
+    "duration": 3.0
+  },
+  {
+    "text": "Çok anadolu çocukları var.",
+    "start": 912.0,
+    "duration": 2.0
+  },
+  {
+    "text": "Anadolu bir hikayesi olarak okunmasını istiyorum.",
+    "start": 914.0,
+    "duration": 3.0
+  },
+  {
+    "text": "Sadece avukatların değil.",
+    "start": 917.0,
+    "duration": 2.0
+  },
+  {
+    "text": "Anadolu'dan nasıl başarılı yokunusunda fikir almak isteyen herkesin okumasını istiyorum.",
+    "start": 919.0,
+    "duration": 6.0
+  },
+  {
+    "text": "İkinci kitabın bir anadolu çocuğu memleketini seven.",
+    "start": 925.0,
+    "duration": 4.0
+  },
+  {
+    "text": "Memleketinin bugünlere getirdi bir anadolu çocuğu.",
+    "start": 929.0,
+    "duration": 3.0
+  },
+  {
+    "text": "Kendi memleketindeki sorumları nasıl görüyor, nasıl çözeceğini düşünüyor.",
+    "start": 932.0,
+    "duration": 4.0
+  },
+  {
+    "text": "Ona anlatıyor.",
+    "start": 936.0,
+    "duration": 1.0
+  },
+  {
+    "text": "Bir gün duyarlak okurlarsı da çok sevinirim.",
+    "start": 937.0,
+    "duration": 3.0
+  },
+  {
+    "text": "Benim birinci şeymiş o ben...",
+    "start": 940.0,
+    "duration": 3.0
+  },
+  {
+    "text": "Baban nedir bilmiyorum.",
+    "start": 943.0,
+    "duration": 2.0
+  },
+  {
+    "text": "Çünkü baban ben iki buçuk yaşındayken verfak etmiş.",
+    "start": 945.0,
+    "duration": 3.0
+  },
+  {
+    "text": "Onunla birkaç tane anım var.",
+    "start": 948.0,
+    "duration": 2.0
+  },
+  {
+    "text": "Onlara bir yere saklamışım.",
+    "start": 950.0,
+    "duration": 3.0
+  },
+  {
+    "text": "İyi saklamışım ki onlar hatırlıyor.",
+    "start": 953.0,
+    "duration": 2.0
+  },
+  {
+    "text": "Birinci gülerken yüzü daha buraya kadar geliyordu.",
+    "start": 955.0,
+    "duration": 2.0
+  },
+  {
+    "text": "Ona hatırlıyorum.",
+    "start": 957.0,
+    "duration": 1.0
+  },
+  {
+    "text": "Al ara ben de.",
+    "start": 958.0,
+    "duration": 1.0
+  },
+  {
+    "text": "İkinci saatten neden geldiği zaman işte sarılmak istemiştim.",
+    "start": 959.0,
+    "duration": 4.0
+  },
+  {
+    "text": "O zaman sarılamadım.",
+    "start": 963.0,
+    "duration": 1.0
+  },
+  {
+    "text": "Ona hatırlıyorum.",
+    "start": 964.0,
+    "duration": 1.0
+  },
+  {
+    "text": "Hepi de ölümde öşen deki haline hatırlıyorum.",
+    "start": 966.0,
+    "duration": 2.0
+  },
+  {
+    "text": "Anatırlıyorum.",
+    "start": 968.0,
+    "duration": 1.0
+  },
+  {
+    "text": "Şimdi babamın ölümünden sonra anadolu da o zamanlar",
+    "start": 969.0,
+    "duration": 4.0
+  },
+  {
+    "text": "tübergülazdan ölüm çokmuş benimkisi onlardan bir tanesi hikaye.",
+    "start": 973.0,
+    "duration": 4.0
+  },
+  {
+    "text": "Baban ölümünden sonra baş salığına gelenler.",
+    "start": 977.0,
+    "duration": 3.0
+  },
+  {
+    "text": "Annemin baş salı dilerlerken annem kadın haliyle",
+    "start": 980.0,
+    "duration": 4.0
+  },
+  {
+    "text": "bir kenarda duruyor evin sahibi olduğu da herkeyi yok.",
+    "start": 984.0,
+    "duration": 4.0
+  },
+  {
+    "text": "Bak erkekler gelince amcalar falan geliyorlar.",
+    "start": 988.0,
+    "duration": 3.0
+  },
+  {
+    "text": "Esas şeyin bütün mücadele bir şeyden çıktı ya ben annemin ağlamasını da",
+    "start": 991.0,
+    "duration": 3.0
+  },
+  {
+    "text": "durdurmak istiyorum.",
+    "start": 994.0,
+    "duration": 1.0
+  },
+  {
+    "text": "O zaman bizim işte delik diyoruz pencere şeyleri.",
+    "start": 995.0,
+    "duration": 3.0
+  },
+  {
+    "text": "Oraya oturduğunda ayağım aşağıya ulaşmıyor.",
+    "start": 998.0,
+    "duration": 3.0
+  },
+  {
+    "text": "Yani 20 centime falan ancak şey oluyor.",
+    "start": 1001.0,
+    "duration": 2.0
+  },
+  {
+    "text": "O zaman demiş onu ya hatırlıyorum o ortamında çok iyi hatırlıyorum.",
+    "start": 1003.0,
+    "duration": 3.0
+  },
+  {
+    "text": "Ya ana hala mı?",
+    "start": 1006.0,
+    "duration": 2.0
+  },
+  {
+    "text": "Ayatlarım yere basınca sana bakarım falan diye bir şey söylüyor musun?",
+    "start": 1008.0,
+    "duration": 3.0
+  },
+  {
+    "text": "Bütün hayatım bu sorunluk şeyyle geçti.",
+    "start": 1011.0,
+    "duration": 3.0
+  },
+  {
+    "text": "Fakat şunu söylemek istiyorum.",
+    "start": 1014.0,
+    "duration": 3.0
+  },
+  {
+    "text": "Anlamın ellerinden öperim şimdi inşallah izliyordur programda.",
+    "start": 1017.0,
+    "duration": 4.0
+  },
+  {
+    "text": "Hiç okula gitmedi.",
+    "start": 1022.0,
+    "duration": 2.0
+  },
+  {
+    "text": "Okuma yazmayı kusla öğrendi.",
+    "start": 1024.0,
+    "duration": 2.0
+  },
+  {
+    "text": "Fakat onun sahip olduğu anadolu kültürü bize şunu öğrete.",
+    "start": 1026.0,
+    "duration": 3.0
+  },
+  {
+    "text": "Onurumla yaşayacaksın ve çalışacaksın.",
+    "start": 1029.0,
+    "duration": 4.0
+  },
+  {
+    "text": "Evet, ilk yalan söylemeyeceksin bilmem ne bunlar anadolu kültüründe",
+    "start": 1033.0,
+    "duration": 3.0
+  },
+  {
+    "text": "çok güçlü olarak var.",
+    "start": 1036.0,
+    "duration": 1.0
+  },
+  {
+    "text": "Onun bize vermiş olduğu değerler beni buraya taşıdı.",
+    "start": 1037.0,
+    "duration": 4.0
+  },
+  {
+    "text": "Tabii ki memleketimi verdiğim ki anlar onları değerlendirerek",
+    "start": 1041.0,
+    "duration": 4.0
+  },
+  {
+    "text": "bugünlere gelebindik.",
+    "start": 1045.0,
+    "duration": 1.0
+  },
+  {
+    "text": "Evet, önce öğretmen olmak üzere çanakkale gidiyorsun.",
+    "start": 1046.0,
+    "duration": 4.0
+  },
+  {
+    "text": "Arkasından, Hukuk Fakiris'in kazanıp İstanbul'a geliyorsun.",
+    "start": 1050.0,
+    "duration": 4.0
+  },
+  {
+    "text": "Avukat olmak nereden geldik?",
+    "start": 1054.0,
+    "duration": 2.0
+  },
+  {
+    "text": "Ben aslında kısayoldan iyi bir mesleğe kavuşmak istiyordum.",
+    "start": 1056.0,
+    "duration": 4.0
+  },
+  {
+    "text": "Öğretmenlik benim için öyleydi.",
+    "start": 1060.0,
+    "duration": 2.0
+  },
+  {
+    "text": "İşte devlet kalırsına gidiyorsun.",
+    "start": 1062.0,
+    "duration": 2.0
+  },
+  {
+    "text": "Çabukat da maaş alıyorsun.",
+    "start": 1064.0,
+    "duration": 2.0
+  },
+  {
+    "text": "Onun için parası ziyatılsın avlarında öğretmen okulunu kazandım.",
+    "start": 1066.0,
+    "duration": 3.0
+  },
+  {
+    "text": "Çanakkale'de o kurken statüyü değiştirilirler.",
+    "start": 1069.0,
+    "duration": 3.0
+  },
+  {
+    "text": "Deriler ki eğitemençine gitmek zorundasın.",
+    "start": 1072.0,
+    "duration": 3.0
+  },
+  {
+    "text": "Öğretmen olmak istiyorsan.",
+    "start": 1075.0,
+    "duration": 1.0
+  },
+  {
+    "text": "Ama onun için de üniversitesin avlarına gireceksin.",
+    "start": 1076.0,
+    "duration": 3.0
+  },
+  {
+    "text": "Oradaki hocaların bize çok yardımcı oldular.",
+    "start": 1079.0,
+    "duration": 3.0
+  },
+  {
+    "text": "Bir kurs gibi son seneyi öyle yaptılar.",
+    "start": 1082.0,
+    "duration": 2.0
+  },
+  {
+    "text": "Biz de üniversitesin avına girdik.",
+    "start": 1084.0,
+    "duration": 2.0
+  },
+  {
+    "text": "Şöyle bir şey diyorsak madem o zaman başka şeyler de seçelim.",
+    "start": 1086.0,
+    "duration": 4.0
+  },
+  {
+    "text": "Ben de kader böyle avukat olmak istememiştim ama sonra avukatlıkla buluşturdum.",
+    "start": 1090.0,
+    "duration": 4.0
+  },
+  {
+    "text": "Evet, önce başkaların yanında çalıştın.",
+    "start": 1094.0,
+    "duration": 2.0
+  },
+  {
+    "text": "Tanıklarınızın yanında çalıştın.",
+    "start": 1096.0,
+    "duration": 2.0
+  },
+  {
+    "text": "Sonra kendi birimi kurdun. Ortaklı kurmuştun sonra ayrırtın.",
+    "start": 1098.0,
+    "duration": 3.0
+  },
+  {
+    "text": "Ve kısa zamanda da büyüttün.",
+    "start": 1101.0,
+    "duration": 5.0
+  },
+  {
+    "text": "Kitabında enteresan konular var.",
+    "start": 1106.0,
+    "duration": 2.0
+  },
+  {
+    "text": "Bir tanesi bu poli pek asil nadir davasında gündeme gelen",
+    "start": 1108.0,
+    "duration": 4.0
+  },
+  {
+    "text": "imli yetçilik konusu var.",
+    "start": 1112.0,
+    "duration": 2.0
+  },
+  {
+    "text": "İyi gire EYC Galas,",
+    "start": 1114.0,
+    "duration": 3.0
+  },
+  {
+    "text": "dağvasına gelen ailecek Galas,",
+    "start": 1117.0,
+    "duration": 2.0
+  },
+  {
+    "text": "sıraylasınız ama Galas sırayla dağva eden EYC'nin avukatı oluyorsun.",
+    "start": 1119.0,
+    "duration": 4.0
+  },
+  {
+    "text": "Bu avukatın milyetçili olmaz.",
+    "start": 1123.0,
+    "duration": 2.0
+  },
+  {
+    "text": "Avukatın takımı olmaz.",
+    "start": 1125.0,
+    "duration": 1.0
+  },
+  {
+    "text": "Bu konudanı düşünüyoruz.",
+    "start": 1126.0,
+    "duration": 2.0
+  },
+  {
+    "text": "Yani çok doğru söylüyorsunuz.",
+    "start": 1128.0,
+    "duration": 2.0
+  },
+  {
+    "text": "Benim de ilkemi odur.",
+    "start": 1130.0,
+    "duration": 1.0
+  },
+  {
+    "text": "Bizi avukatın değil de imanı milyeti haku kuk adalettir.",
+    "start": 1131.0,
+    "duration": 4.0
+  },
+  {
+    "text": "Her şeyden önce bu gelir.",
+    "start": 1135.0,
+    "duration": 2.0
+  },
+  {
+    "text": "Yani bu şimdi çeşitli sebeplerle",
+    "start": 1137.0,
+    "duration": 3.0
+  },
+  {
+    "text": "duygularımızın öne geçtiği durumlar olabilir.",
+    "start": 1140.0,
+    "duration": 3.0
+  },
+  {
+    "text": "Bunun mutlaka bir avukatın yenmesi lazım.",
+    "start": 1143.0,
+    "duration": 2.0
+  },
+  {
+    "text": "Avukatın meseleleri aklıyla bakmasın.",
+    "start": 1145.0,
+    "duration": 2.0
+  },
+  {
+    "text": "Yani diyelim ki onlar bir cinayet var.",
+    "start": 1147.0,
+    "duration": 3.0
+  },
+  {
+    "text": "Ben bu cinayet de ağlasın.",
+    "start": 1150.0,
+    "duration": 2.0
+  },
+  {
+    "text": "Lakin savunmayı üslenen insan.",
+    "start": 1152.0,
+    "duration": 2.0
+  },
+  {
+    "text": "Avukatın çok önemli yürüy�üğü üslendiğini düşünüyor.",
+    "start": 1154.0,
+    "duration": 3.0
+  },
+  {
+    "text": "Çünkü şunu denesel lazım topluma.",
+    "start": 1157.0,
+    "duration": 3.0
+  },
+  {
+    "text": "Ben sizi temsil ediyorum.",
+    "start": 1160.0,
+    "duration": 2.0
+  },
+  {
+    "text": "Bu toplum, vahşi bir toplum değil.",
+    "start": 1162.0,
+    "duration": 3.0
+  },
+  {
+    "text": "Bir cani de olsa onu lincetmiyoruz.",
+    "start": 1165.0,
+    "duration": 3.0
+  },
+  {
+    "text": "Yardılıyoruz diye bilmesi lazım.",
+    "start": 1168.0,
+    "duration": 2.0
+  },
+  {
+    "text": "Bu da böyle bakmak lazım.",
+    "start": 1170.0,
+    "duration": 2.0
+  },
+  {
+    "text": "Eğer toplumda hukuku hakim kılabiliyor olsa",
+    "start": 1172.0,
+    "duration": 3.0
+  },
+  {
+    "text": "o zaman o avukat,",
+    "start": 1175.0,
+    "duration": 1.0
+  },
+  {
+    "text": "kendi milletiyle, kendine takımına en büyük faydayı gösteriyor.",
+    "start": 1176.0,
+    "duration": 4.0
+  },
+  {
+    "text": "Ben Galas Saray'ın genel kuruğuna gitmiştim.",
+    "start": 1180.0,
+    "duration": 3.0
+  },
+  {
+    "text": "Eaycadına, o genel kurulda sabahdan akşama kadar",
+    "start": 1183.0,
+    "duration": 3.0
+  },
+  {
+    "text": "bir mücadele etmiştik.",
+    "start": 1186.0,
+    "duration": 2.0
+  },
+  {
+    "text": "Bir dönetçi seçtirmek için...",
+    "start": 1188.0,
+    "duration": 2.0
+  },
+  {
+    "text": "12 bin aday mı hazırmışsınız?",
+    "start": 1190.0,
+    "duration": 2.0
+  },
+  {
+    "text": "Haldırlamıştim.",
+    "start": 1192.0,
+    "duration": 2.0
+  },
+  {
+    "text": "Çok güzel olmuştu.",
+    "start": 1194.0,
+    "duration": 1.0
+  },
+  {
+    "text": "Çünkü birinci şeydeki genel kuruldaki oyunu...",
+    "start": 1195.0,
+    "duration": 3.0
+  },
+  {
+    "text": "Oyunca daha sağ genel kundları bir çok üst at pukular var.",
+    "start": 1198.0,
+    "duration": 3.0
+  },
+  {
+    "text": "Tabii rahmetli oldu.",
+    "start": 1201.0,
+    "duration": 1.0
+  },
+  {
+    "text": "Bir yukutu ismini söylemek istemiyorum.",
+    "start": 1202.0,
+    "duration": 2.0
+  },
+  {
+    "text": "Ama öyle bir yol bulmuşlar onlar.",
+    "start": 1204.0,
+    "duration": 2.0
+  },
+  {
+    "text": "Bu yanlış.",
+    "start": 1206.0,
+    "duration": 1.0
+  },
+  {
+    "text": "Ben de o yanlışı yenecek bir yönetemi geliştirdim.",
+    "start": 1207.0,
+    "duration": 2.0
+  },
+  {
+    "text": "Yanlış dediğiniz başka şeyler var.",
+    "start": 1209.0,
+    "duration": 2.0
+  },
+  {
+    "text": "Avukatların temsil ettikleri şirketlerin yönetim kuruldan da yer almasını yanlış buluyorsunuz.",
+    "start": 1211.0,
+    "duration": 6.0
+  },
+  {
+    "text": "Kesinlikle.",
+    "start": 1217.0,
+    "duration": 1.0
+  },
+  {
+    "text": "Kesinlikle.",
+    "start": 1218.0,
+    "duration": 1.0
+  },
+  {
+    "text": "Avukatlıkta asil ruhuyla...",
+    "start": 1219.0,
+    "duration": 3.0
+  },
+  {
+    "text": "Yani bir işin tarafı olanın ruhuyla...",
+    "start": 1222.0,
+    "duration": 4.0
+  },
+  {
+    "text": "Akıl verenin ruhlu ve ruhi hali çok farklı.",
+    "start": 1226.0,
+    "duration": 5.0
+  },
+  {
+    "text": "Şimdi yönetim kurulduğu iyiliği kabul eden Avukat...",
+    "start": 1231.0,
+    "duration": 3.0
+  },
+  {
+    "text": "Şeyden vazgeçiyor.",
+    "start": 1234.0,
+    "duration": 2.0
+  },
+  {
+    "text": "Akıl veren ruhluğundan vazgeçiyor.",
+    "start": 1236.0,
+    "duration": 2.0
+  },
+  {
+    "text": "Olayların içerisinde geliyor.",
+    "start": 1238.0,
+    "duration": 1.0
+  },
+  {
+    "text": "Yönet kurulduğu üyesi neticeler riskalar...",
+    "start": 1239.0,
+    "duration": 3.0
+  },
+  {
+    "text": "Avukatların risk alması gerekmiyor.",
+    "start": 1242.0,
+    "duration": 2.0
+  },
+  {
+    "text": "Avukatın demesi lazım.",
+    "start": 1244.0,
+    "duration": 1.0
+  },
+  {
+    "text": "Kedi riski şöyle alabilirsin.",
+    "start": 1245.0,
+    "duration": 2.0
+  },
+  {
+    "text": "Sonuçlar bu olur.",
+    "start": 1247.0,
+    "duration": 1.0
+  },
+  {
+    "text": "Olmaz lazım.",
+    "start": 1248.0,
+    "duration": 1.0
+  },
+  {
+    "text": "Şirketlerin ve kamunun da...",
+    "start": 1249.0,
+    "duration": 2.0
+  },
+  {
+    "text": "Bordrol Avukatlarla davalarını sürürmeleğine karşısın.",
+    "start": 1251.0,
+    "duration": 3.0
+  },
+  {
+    "text": "Karsiyon.",
+    "start": 1254.0,
+    "duration": 1.0
+  },
+  {
+    "text": "Dış buralarda çalışmalıyorsun.",
+    "start": 1255.0,
+    "duration": 1.0
+  },
+  {
+    "text": "Tabii sana iş açmayar atacak bu.",
+    "start": 1256.0,
+    "duration": 2.0
+  },
+  {
+    "text": "Onun dışında diye karşısın.",
+    "start": 1258.0,
+    "duration": 1.0
+  },
+  {
+    "text": "Ben iş için ne yapıyorum?",
+    "start": 1259.0,
+    "duration": 2.0
+  },
+  {
+    "text": "Meslemin geri kalan kısmında...",
+    "start": 1261.0,
+    "duration": 2.0
+  },
+  {
+    "text": "Meslemi geliştirmek istiyorum.",
+    "start": 1263.0,
+    "duration": 1.0
+  },
+  {
+    "text": "Avukatlık mesleğini ve yargıya işimiz zaten var.",
+    "start": 1264.0,
+    "duration": 3.0
+  },
+  {
+    "text": "Şükür.",
+    "start": 1267.0,
+    "duration": 1.0
+  },
+  {
+    "text": "Fakat ben şunun için karşıyım.",
+    "start": 1268.0,
+    "duration": 1.0
+  },
+  {
+    "text": "Yani bizim mahkemelerde...",
+    "start": 1269.0,
+    "duration": 2.0
+  },
+  {
+    "text": "Avukatların bağımsızca hareket edebildiği.",
+    "start": 1271.0,
+    "duration": 3.0
+  },
+  {
+    "text": "Müvekillerine hesap verme meselesi.",
+    "start": 1274.0,
+    "duration": 2.0
+  },
+  {
+    "text": "Meseki ilkeler içerisine bırakabildiği...",
+    "start": 1276.0,
+    "duration": 2.0
+  },
+  {
+    "text": "...bir ortamda olmasını istiyorum.",
+    "start": 1278.0,
+    "duration": 2.0
+  },
+  {
+    "text": "Avukat çirketin boğudurusunda olursa...",
+    "start": 1280.0,
+    "duration": 3.0
+  },
+  {
+    "text": "...onun işine son verebilecek olan...",
+    "start": 1283.0,
+    "duration": 2.0
+  },
+  {
+    "text": "...genel müdürün sözlerine karşı çıkamaz.",
+    "start": 1285.0,
+    "duration": 3.0
+  },
+  {
+    "text": "Genel müdür farklı düşünüyor.",
+    "start": 1288.0,
+    "duration": 2.0
+  },
+  {
+    "text": "Avukat farklı düşünüyor.",
+    "start": 1290.0,
+    "duration": 1.0
+  },
+  {
+    "text": "O zaman avukatlık yetkinliği.",
+    "start": 1291.0,
+    "duration": 2.0
+  },
+  {
+    "text": "Avukatın yargının kurucuğun sur olduğu.",
+    "start": 1293.0,
+    "duration": 2.0
+  },
+  {
+    "text": "Avukatın adaleti gerçekleştiren...",
+    "start": 1295.0,
+    "duration": 3.0
+  },
+  {
+    "text": "...unsurlardan birisi olduğu kısmını hemen kolaylıkla kaybedebiliriz.",
+    "start": 1298.0,
+    "duration": 4.0
+  },
+  {
+    "text": "Ben onun için mahkemelerde iş yapacak olan avukatların...",
+    "start": 1303.0,
+    "duration": 3.0
+  },
+  {
+    "text": "...şirketlerde görev yapan kurçulardan farklı olması...",
+    "start": 1306.0,
+    "duration": 3.0
+  },
+  {
+    "text": "...her eklenilmişiniyorum.",
+    "start": 1309.0,
+    "duration": 2.0
+  },
+  {
+    "text": "Bilir kişilik meselesini de çok yanlış çalıştığını söylüyorsun.",
+    "start": 1311.0,
+    "duration": 2.0
+  },
+  {
+    "text": "Hiç sormayın bence yargının en çirkin tarafı bilir kişilik.",
+    "start": 1313.0,
+    "duration": 4.0
+  },
+  {
+    "text": "Eğer bir davada aleni yargılamaya yapılmasına...",
+    "start": 1317.0,
+    "duration": 3.0
+  },
+  {
+    "text": "...zahzım her işlemin tarafların ve izleyicilerin...",
+    "start": 1320.0,
+    "duration": 4.0
+  },
+  {
+    "text": "...huzurunda olması lazım.",
+    "start": 1324.0,
+    "duration": 2.0
+  },
+  {
+    "text": "Bilir kişiye verdiğiniz zaman dosyavit üneleri giriyor.",
+    "start": 1326.0,
+    "duration": 3.0
+  },
+  {
+    "text": "Bilir kişiraporlarına soluyor.",
+    "start": 1330.0,
+    "duration": 2.0
+  },
+  {
+    "text": "Hani şartlarda hazırlanıyor, bilemiyorsunuz.",
+    "start": 1332.0,
+    "duration": 3.0
+  },
+  {
+    "text": "Sonra bilir kişiye bir tarafın iddia edersen olmasına...",
+    "start": 1335.0,
+    "duration": 3.0
+  },
+  {
+    "text": "...kanıtlamak için yararlanacağı bir delil.",
+    "start": 1340.0,
+    "duration": 2.0
+  },
+  {
+    "text": "Hakim iki tarafında yerine geçiyor.",
+    "start": 1342.0,
+    "duration": 2.0
+  },
+  {
+    "text": "Onlar nadına bilir kişiye soru soruyor.",
+    "start": 1344.0,
+    "duration": 2.0
+  },
+  {
+    "text": "Hakim iki tarafından avukatın ikid.",
+    "start": 1346.0,
+    "duration": 2.0
+  },
+  {
+    "text": "Davacının da değil, davalında değil.",
+    "start": 1348.0,
+    "duration": 2.0
+  },
+  {
+    "text": "Onun için bizdeki sistemde bilir kişileri hakim görevlendirsin.",
+    "start": 1350.0,
+    "duration": 4.0
+  },
+  {
+    "text": "Hakim'in güvendikleri olsun falan diye böyle gidiyor.",
+    "start": 1354.0,
+    "duration": 3.0
+  },
+  {
+    "text": "Bu sistem bilir kişilik deki yoğuzlaşmayı çok yargıya taşıyor.",
+    "start": 1357.0,
+    "duration": 4.0
+  },
+  {
+    "text": "Yani kibar olmak zorunda, bir kaç istisnağda...",
+    "start": 1361.0,
+    "duration": 4.0
+  },
+  {
+    "text": "...bilir kişilerinin hiçbirisinin işini düzgün yapabildiğini sanmıyorum.",
+    "start": 1365.0,
+    "duration": 5.0
+  },
+  {
+    "text": "Bu hayva.",
+    "start": 1370.0,
+    "duration": 1.0
+  },
+  {
+    "text": "Ve dürüst olabildiklerinde sanmıyorum.",
+    "start": 1371.0,
+    "duration": 3.0
+  },
+  {
+    "text": "Boğuluşmaya çok açık olan bir sistem.",
+    "start": 1374.0,
+    "duration": 2.0
+  },
+  {
+    "text": "Şu anda ki mevcut sisteme karşı raporlarımızı falan yayınlamışsın.",
+    "start": 1376.0,
+    "duration": 4.0
+  },
+  {
+    "text": "Biz daha yargı deneyenle hata bir kitap dayazı kukonda.",
+    "start": 1380.0,
+    "duration": 3.0
+  },
+  {
+    "text": "Bu mevcut uygulamanın kaldırılması gerektiğini düşünüyorum bir an önce.",
+    "start": 1383.0,
+    "duration": 5.0
+  },
+  {
+    "text": "Sadece mahkeme bilir kişilik yapanların secilinitüsü yeter.",
+    "start": 1388.0,
+    "duration": 4.0
+  },
+  {
+    "text": "Buradan sonra nasıl anılmak istiyorsun?",
+    "start": 1392.0,
+    "duration": 3.0
+  },
+  {
+    "text": "Yargıyı, adaleti, bu mescaya geliştiren kişi olarak mı?",
+    "start": 1395.0,
+    "duration": 4.0
+  },
+  {
+    "text": "Boskur'dan gelip İstanbul'da Türkiye'nin en büyük bir olarından biri...",
+    "start": 1399.0,
+    "duration": 4.0
+  },
+  {
+    "text": "...vergi listelerinde, 200 desin.",
+    "start": 1403.0,
+    "duration": 3.0
+  },
+  {
+    "text": "Nasıl anılmak istiyorsun?",
+    "start": 1406.0,
+    "duration": 2.0
+  },
+  {
+    "text": "Yani çalışınca kazanır.",
+    "start": 1408.0,
+    "duration": 2.0
+  },
+  {
+    "text": "Türkiye bu vakından çok güzel bir ülke.",
+    "start": 1410.0,
+    "duration": 2.0
+  },
+  {
+    "text": "Ben şöyle anılmak isterim.",
+    "start": 1412.0,
+    "duration": 2.0
+  },
+  {
+    "text": "Avukatlık mesleği başta olmak üzere bütün hukuk mesleklere...",
+    "start": 1414.0,
+    "duration": 3.0
+  },
+  {
+    "text": "...ne verimli ve hesap verir olmayanında dönüştürmüş.",
+    "start": 1417.0,
+    "duration": 3.0
+  },
+  {
+    "text": "Yargıyı verimli çalışır.",
+    "start": 1420.0,
+    "duration": 2.0
+  },
+  {
+    "text": "Hesak verir ve bağımısı saale getirmiş.",
+    "start": 1422.0,
+    "duration": 3.0
+  },
+  {
+    "text": "Böyle yaparak da hukukun üstündününün sağlamış.",
+    "start": 1425.0,
+    "duration": 3.0
+  },
+  {
+    "text": "Türkiye'yi dünyada ilk en gelişmiş sekiz ülke arasına taşımış bir anadolu çocuğu...",
+    "start": 1428.0,
+    "duration": 7.0
+  },
+  {
+    "text": "...bir reformist hukukçu olarak anılmak isterim.",
+    "start": 1435.0,
+    "duration": 3.0
+  },
+  {
+    "text": "Şimdi tabii genç yaşta babayı kaybetmek, yoksul bir aileden gelmek...",
+    "start": 1438.0,
+    "duration": 6.0
+  },
+  {
+    "text": "...ve öğretmenlik terkken Avukatla gitmek.",
+    "start": 1444.0,
+    "duration": 3.0
+  },
+  {
+    "text": "Belki 35 yıl yeriye gitsen her şeyi farklı yapar mıydın diye sorsam...",
+    "start": 1447.0,
+    "duration": 5.0
+  },
+  {
+    "text": "...yapacak da çok fazla alternatif olmayabilir.",
+    "start": 1452.0,
+    "duration": 4.0
+  },
+  {
+    "text": "Ama bugün mesleğe yeni atılan Avukatlara en temel tavsiye ederim ne de olur?",
+    "start": 1456.0,
+    "duration": 5.0
+  },
+  {
+    "text": "Ben bir şeyim yeniden yaşayabilecek olsaydım aynı hayatı yaşamak isterdim.",
+    "start": 1461.0,
+    "duration": 5.0
+  },
+  {
+    "text": "Tek bir şey var, giderdim babama daha çok sarıladım, onu çok yazıyorum.",
+    "start": 1466.0,
+    "duration": 4.0
+  },
+  {
+    "text": "Çocuklarımla daha çok zaman geçirmek isterdim ama aynı hayatı yaşamak isterdim.",
+    "start": 1470.0,
+    "duration": 5.0
+  },
+  {
+    "text": "Bence çok güzel zengin bir hayatı yaşadığını düşünüyorum.",
+    "start": 1475.0,
+    "duration": 3.0
+  },
+  {
+    "text": "Yok baştaki yoksulluklarımdan çok üzülüyordum ama şimdi aslında onları yaşamış...",
+    "start": 1478.0,
+    "duration": 5.0
+  },
+  {
+    "text": "...olunumun zenginlik olduğunu düşünüyorum.",
+    "start": 1483.0,
+    "duration": 3.0
+  },
+  {
+    "text": "Benim için de genç Avukatlara bunları yaşamış olan biris olarak söylemişlerim.",
+    "start": 1486.0,
+    "duration": 6.0
+  },
+  {
+    "text": "Bir kere Türkiye'deyseniz korkmayın, yilmayı çalışsın.",
+    "start": 1492.0,
+    "duration": 4.0
+  },
+  {
+    "text": "Eğer iyi bir şey yapıyorsanız bilin ki memleketin hepsi sizin arkanızda başarımıza yardımcı olmak için hazır.",
+    "start": 1496.0,
+    "duration": 8.0
+  },
+  {
+    "text": "İşte iş mi geliştireceksiniz?",
+    "start": 1504.0,
+    "duration": 3.0
+  },
+  {
+    "text": "Sorun soruşturun, iş yapacaksanız kurumlaştırarak yapın mesela.",
+    "start": 1507.0,
+    "duration": 3.0
+  },
+  {
+    "text": "Tek başınıza iş yapmayın, iki üç kişi bir araya gelin, verim seziklerinizi atın.",
+    "start": 1510.0,
+    "duration": 5.0
+  },
+  {
+    "text": "Hatta aranıza bir işletmece alın, onu da bir ortak yapın.",
+    "start": 1515.0,
+    "duration": 4.0
+  },
+  {
+    "text": "Sonra kurumlaştırın şeyinizi.",
+    "start": 1519.0,
+    "duration": 2.0
+  },
+  {
+    "text": "Karşınızdaki sizden hizmet bekleyen insanlara, onlara iyi hizmet verebilmek için onları tanıyın, onların işlerini tanıyın,",
+    "start": 1521.0,
+    "duration": 8.0
+  },
+  {
+    "text": "onların bulundukları ortamları gidin, sorunlarını anlayın.",
+    "start": 1529.0,
+    "duration": 3.0
+  },
+  {
+    "text": "Okumlara çözünler getiren bunlarla görünür olun ve asla birisinin kapsına gidip de işinizi bana verin demeyin.",
+    "start": 1532.0,
+    "duration": 8.0
+  },
+  {
+    "text": "Mehmet gün, iyi ki geldin.",
+    "start": 1540.0,
+    "duration": 2.0
+  },
+  {
+    "text": "Çok iyi çok şey öğrendim senden.",
+    "start": 1542.0,
+    "duration": 2.0
+  },
+  {
+    "text": "Eminim izleyicilerimizde keyifli fayet geçirmiştir.",
+    "start": 1544.0,
+    "duration": 3.0
+  },
+  {
+    "text": "Efendim, Sürçülü Sanetliysek, Affola, tecrübe haftaya burada kaldığı yerden konuşmaya devam edecek, sağlayacak bakalım.",
+    "start": 1547.0,
+    "duration": 8.0
+  }
+]
