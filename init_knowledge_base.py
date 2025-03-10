@@ -124,7 +124,7 @@ def improve_chunk_grammar(chunks_file_path: str, output_file_path: Optional[str]
         logger.info(f"Loaded {len(chunks)} chunks for grammar improvement")
         
         # Create chunk processor and improve chunks
-        processor = ChunkProcessor(model="gpt-3.5-turbo")
+        processor = ChunkProcessor(model="gpt-4o-mini")
         improved_chunks = processor.process_chunks(chunks, batch_size=5, delay=1.0)
         
         # Save improved chunks to the output file
