@@ -1,32 +1,215 @@
-# Leadership Coach AI Knowledge Base
+# Leadership Coach AI
 
-A comprehensive system for creating a knowledge base from YouTube videos, with a focus on leadership content in Turkish. The system uses audio-based transcription, grammar improvement, and vector embedding for efficient retrieval.
+<div align="center">
+  <img src="assets/logo.png" alt="Leadership Coach AI Logo" width="150"/>
+  <br>
+  <strong>Your AI-powered Leadership Development Companion</strong>
+  <br>
+  <p>A comprehensive system for creating an intelligent leadership coach powered by YouTube knowledge and web search capabilities</p>
+</div>
 
-## Features
+## 📋 Overview
 
-- **Audio-based Transcription**: Downloads and transcribes YouTube videos using Whisper
-- **Grammar Correction**: Improves the quality of Turkish transcripts using OpenAI's language models
-- **Vector Embedding**: Creates searchable embeddings from transcript chunks
-- **Turkish Language Optimization**: All components are optimized for Turkish language processing
-- **Robust Error Handling**: Comprehensive error handling and logging throughout the system
-- **Detailed Logging**: All operations are logged to both console and log files for monitoring and debugging
-- **User-Friendly Interface**: Clean and intuitive chat UI
-- **Referenced Responses**: Provides sources for all information
-- **Voice Output**: Converts text responses to speech
-- **Web Search Capability**: Supplements knowledge with web searches when needed
+Leadership Coach AI is a sophisticated AI system that creates a searchable knowledge base from leadership-focused YouTube videos. It uses advanced natural language processing to provide personalized leadership coaching, advice, and training based on curated content.
 
-## Requirements
+The system combines audio-based transcription, semantic search capabilities, and intelligent response generation to deliver an interactive coaching experience with referenced answers. All components are optimized for robustness and multilingual support with special focus on Turkish language processing.
 
-- Python 3.9+
+<div align="center">
+  <img src="assets/screenshot.png" alt="Leadership Coach AI Screenshot" width="100%"/>
+</div>
+
+## ✨ Key Features
+
+- **🧠 Specialized Knowledge Base**: Creates an intelligent knowledge base from leadership-focused YouTube videos
+- **🔍 Semantic Search**: Uses vector embeddings for accurate semantic retrieval of relevant content
+- **🌐 Web Search Integration**: Supplements knowledge base with current web information when needed
+- **🗣️ Audio-based Transcription**: Downloads and transcribes any YouTube video using Whisper
+- **🔤 Grammar Enhancement**: Improves transcript quality using OpenAI language models
+- **🎯 Referenced Responses**: All responses include sources and citations for verification
+- **📊 Context-Aware Answers**: Intelligently combines information from multiple sources
+- **🔊 Voice Output**: Converts text responses to natural-sounding speech
+- **🛡️ Robust Architecture**: Comprehensive error handling and fallback mechanisms
+- **📝 Detailed Logging**: Complete logging system for monitoring and debugging
+- **⚙️ Customization**: Adjustable parameters for search depth, response generation, and more
+- **🌍 Language Optimization**: Special focus on Turkish language with proper character support
+
+## 🛠️ System Architecture
+
+### Knowledge Base Creation Flow
+
+The knowledge base creation process starts with YouTube videos and ends with searchable vector embeddings:
+
+```
+┌───────────────────┐     ┌───────────────────┐     ┌───────────────────┐
+│                   │     │                   │     │                   │
+│  YouTube          │     │  yt-dlp           │     │  Audio Files      │
+│  Videos/Playlist  ├────►│  Downloader       ├────►│  (.mp3)           │
+│                   │     │                   │     │                   │
+└───────────────────┘     └───────────────────┘     └─────────┬─────────┘
+                                                              │
+                                                              ▼
+┌───────────────────┐     ┌───────────────────┐     ┌───────────────────┐
+│                   │     │                   │     │                   │
+│  Raw JSON         │     │  Whisper Model    │     │  FFmpeg           │
+│  Transcripts      │◄────┤  Transcription    │◄────┤  Audio            │
+│                   │     │                   │     │  Processing       │
+└─────────┬─────────┘     └───────────────────┘     └───────────────────┘
+          │
+          ▼
+┌───────────────────┐     ┌───────────────────┐     ┌───────────────────┐
+│                   │     │                   │     │                   │
+│  Transcript       │     │  OpenAI LLM       │     │  Text Processing  │
+│  Chunks           ├────►│  Grammar          ├────►│  & Cleaning       │
+│                   │     │  Improvement      │     │                   │
+└─────────┬─────────┘     └───────────────────┘     └───────────────────┘
+          │                                                   
+          ▼                                                   
+┌───────────────────┐     ┌───────────────────┐     ┌───────────────────┐
+│                   │     │                   │     │                   │
+│  Improved         │     │  OpenAI           │     │  Vector           │
+│  Chunks JSON      ├────►│  Embedding        ├────►│  Store            │
+│                   │     │  API              │     │  Database         │
+└───────────────────┘     └───────────────────┘     └───────────────────┘
+```
+
+**Key Components:**
+
+1. **YouTube Extraction**: `YouTubeExtractor` class processes YouTube videos/playlists:
+   - Uses `yt-dlp` to download audio and extract metadata
+   - Processes videos in batches with parallel processing
+   - Saves audio files to `data/audio` directory
+
+2. **Audio Transcription**: Whisper-based transcription:
+   - Transcribes audio using OpenAI's Whisper model
+   - Creates timestamp-aligned transcript segments
+   - Divides content into logical chunks
+
+3. **Text Enhancement**: `ChunkProcessor` improves transcript quality:
+   - Corrects grammar and formatting issues using LLMs
+   - Optimizes Turkish language content
+   - Preserves original source references and timestamps
+
+4. **Vector Embedding**: `VectorStore` creates searchable embeddings:
+   - Uses OpenAI's text-embedding-3-small model for embedding
+   - Creates efficient vector representations
+   - Stores metadata for source attribution
+
+### Application Usage Flow
+
+The application flow shows how user queries are processed and answered:
+
+```
+┌───────────────────┐     ┌───────────────────┐     ┌───────────────────┐
+│                   │     │                   │     │                   │
+│  User Query       ├────►│  Query            │─┬──►│  Vector Store     │
+│  (Streamlit UI)   │     │  Processor        │ │   │  Search           │
+│                   │     │                   │ │   │                   │
+└───────────────────┘     └───────────────────┘ │   └─────────┬─────────┘
+                                                │             │
+                                                │             ▼
+                                                │   ┌───────────────────┐
+                                                │   │                   │
+                                                │   │  Knowledge Base   │
+                                                │   │  Results          │
+                                                │   │                   │
+                                                │   └─────────┬─────────┘
+                                                │             │
+                          ┌───────────────────┐ │             │
+                          │                   │ │             │
+                          │  Result Quality   │ │             │
+                          │  Check            │◄──────────────┤            
+                          │                   │ │             │
+                          └─────────┬─────────┘ │             │
+                                    │           │             │
+                                    ▼           │             │
+┌───────────────────┐     ┌───────────────────┐ │             │
+│                   │     │                   │ │             │
+│  Web Search       │◄────┤  Need More        │◄┘             │
+│  (If Needed)      │     │  Information?     │               │
+│                   │     │                   │               │
+└─────────┬─────────┘     └─────────┬─────────┘               │
+          │                         │                         │
+          ▼                         ▼                         │
+┌───────────────────┐     ┌───────────────────┐               │
+│                   │     │                   │               │
+│  Web Results      ├────►│  Context          │◄──────────────┘
+│  (Optional)       │     │  Integration      │
+│                   │     │                   │
+└───────────────────┘     └─────────┬─────────┘
+                                    │
+                                    ▼
+┌───────────────────┐     ┌───────────────────┐     ┌───────────────────┐
+│                   │     │                   │     │                   │
+│  OpenAI           │◄────┤  Response         ├────►│  Source           │
+│  GPT-4o-mini      │     │  Generation       │     │  Attribution      │
+│                   │     │                   │     │                   │
+└─────────┬─────────┘     └───────────────────┘     └───────────────────┘
+          │
+          ▼
+┌───────────────────┐     ┌───────────────────┐     ┌───────────────────┐
+│                   │     │                   │     │                   │
+│  Response         │────►│  Text-to-Speech   ├────►│  Final Response   │
+│  Text             │     │  (Optional)       │     │  with Audio       │
+│                   │     │                   │     │                   │
+└───────────────────┘     └───────────────────┘     └───────────────────┘
+```
+
+**Key Components:**
+
+1. **User Interface**: Built with Streamlit:
+   - Chat-based interface for natural interactions
+   - Dynamic settings for customization
+   - Real-time knowledge base status monitoring
+
+2. **Query Processing**: `QueryProcessor` coordinates the retrieval and response:
+   - Analyzes query intent and context
+   - Searches knowledge base with semantic matching
+   - Determines if web search is needed based on result quality
+
+3. **Multi-Source Retrieval**: Combines information from multiple sources:
+   - Knowledge base vectors provide curated content
+   - Web search supplements with up-to-date information
+   - Results are ranked by relevance and reliability
+
+4. **Response Generation**: `OpenAIService` creates coherent responses:
+   - Uses GPT-4o-mini for natural language generation
+   - Integrates context from multiple sources
+   - Includes source attribution for transparency
+   - Optimized prompting for Turkish language responses
+
+5. **Voice Output**: `TextToSpeech` converts text to audio:
+   - Processes responses with proper pronunciation
+   - Handles long-form content by chunking
+   - Creates embedded audio players in the UI
+
+### Component Interaction Details
+
+The system uses a modular architecture where components interact through well-defined interfaces:
+
+| Component | Purpose | Implementation |
+|-----------|---------|---------------|
+| **YouTubeExtractor** | Downloads and transcribes content | Uses `yt-dlp` and Whisper |
+| **ChunkProcessor** | Improves transcript quality | LLM-based grammar enhancement |
+| **VectorStore** | Enables semantic search | OpenAI embeddings with cosine similarity |
+| **OpenAIClient** | Centralizes API access | Robust error handling and retries |
+| **QueryProcessor** | Coordinates response generation | Knowledge retrieval and ranking |
+| **WebSearch** | Supplements knowledge base | Multi-engine search with fallbacks |
+| **TextToSpeech** | Provides voice output | gTTS with audio processing |
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Python 3.11+ 
 - FFmpeg (for audio processing)
-- OpenAI API key (for grammar correction and embeddings)
-- YouTube videos or playlist
+- OpenAI API key
+- YouTube videos/playlist with leadership content
 
-## Installation
+### Installation
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Daymenion/LeadershipCoach.git
+   git clone https://github.com/Daymenion/leadership-coach-ai.git
    cd LeadershipCoach
    ```
 
@@ -40,235 +223,213 @@ A comprehensive system for creating a knowledge base from YouTube videos, with a
    - **macOS**: `brew install ffmpeg`
    - **Linux**: `sudo apt install ffmpeg`
 
-4. Create a `.env` file with your OpenAI API key:
+4. Create a `.env` file with your API keys:
    ```
-   OPENAI_API_KEY=your_api_key_here
+   OPENAI_API_KEY=your_openai_api_key_here
+   GOOGLE_SEARCH_API_KEY=your_google_api_key_here # Optional
+   GOOGLE_SEARCH_CX=your_google_custom_search_id_here # Optional
+   BING_SEARCH_API_KEY=your_bing_api_key_here # Optional
    ```
 
-## Usage
+### Building the Knowledge Base
 
-### Initializing the Knowledge Base
-
-The main script `init_knowledge_base.py` initializes the knowledge base from YouTube videos. You can run it with various options:
+Use `init_knowledge_base.py` to create the knowledge base from YouTube videos:
 
 ```bash
-# Process a YouTube playlist
-python init_knowledge_base.py --playlist "https://www.youtube.com/playlist?list=YOUR_PLAYLIST_ID"
+# From a YouTube playlist
+python init_knowledge_base.py --playlist "YOUR_PLAYLIST_ID"
 
-# Process specific videos
-python init_knowledge_base.py --videos VIDEO_ID1 VIDEO_ID2 VIDEO_ID3
+# From specific videos
+python init_knowledge_base.py --videos XXXXXXXXXXX YYYYYYYYYYY ZZZZZZZZZZZ
 
-# Limit the number of videos to process
-python init_knowledge_base.py --playlist "https://www.youtube.com/playlist?list=YOUR_PLAYLIST_ID" --max-videos 5
+# Configure processing options
+python init_knowledge_base.py --playlist "YOUR_PLAYLIST_ID" --max-videos 10
 
-# Skip grammar improvement (faster but less quality)
-python init_knowledge_base.py --playlist "https://www.youtube.com/playlist?list=YOUR_PLAYLIST_ID" --skip-grammar
+#Skip transcript extraction if already available
+python init_knowledge_base.py --playlist "YOUR_PLAYLIST_ID" --skip-transcription
 
-# Skip transcription (use existing transcript files)
-python init_knowledge_base.py --skip-transcription
+#Skip grammar correction for faster processing but lower quality
+python init_knowledge_base.py --playlist "YOUR_PLAYLIST_ID" --skip-grammar
 
 # Change the logging level
-python init_knowledge_base.py --videos VIDEO_ID --log-level DEBUG
+python init_knowledge_base.py --playlist "YOUR_PLAYLIST_ID" --log-level INFO
+
 ```
 
 ### Running the Application
 
-1. Start the Streamlit App:
+1. Start the Streamlit application:
    ```bash
    streamlit run app.py
    ```
 
-   This will start the application and open it in your default web browser.
+2. Open the provided URL in your browser (typically http://localhost:8501)
 
-2. Build the Knowledge Base (when first running the application):
-   - In the sidebar, click on "Advanced Settings" to expand it
-   - Click the "Rebuild Knowledge Base" button
-   - Wait for the process to complete (this may take several minutes)
+3. If running for the first time without vector embeddings:
+   - Click "Advanced Settings" in the sidebar
+   - Click "Rebuild Knowledge Base" and wait for initialization
 
-3. Using the Application:
-   - Type leadership-related questions in the chat input
-   - View the AI's responses with references to the source material
-   - Listen to the audio version of the response (if voice output is enabled)
-   - Adjust settings in the sidebar:
-     - Number of knowledge base results
-     - Enable/disable web search
-     - Enable/disable voice output
-     - Adjust response temperature and max tokens
+4. Start asking leadership questions!
 
-### Testing Individual Components
+## 💬 Usage Guide
 
-Several test scripts are available to test specific components of the system:
+### Asking Questions
+
+The system is designed to answer questions about:
+- Leadership principles and techniques
+- Team management strategies
+- Professional development
+- Organizational behavior
+- Change management
+- Communication skills
+
+Example questions:
+- "Etkili bir lider nasıl olunur?"
+- "Ekip motivasyonunu artırmanın yolları nelerdir?"
+- "İş yerinde çatışma yönetimi için öneriler verebilir misin?"
+- "Değişim yönetimi sürecinde nelere dikkat edilmeli?"
+
+### Adjusting Settings
+
+The sidebar provides several options to customize your experience:
+
+- **Knowledge Base Results**: Control how many results to retrieve from the knowledge base
+- **Web Search**: Enable/disable web search capabilities
+- **Voice Output**: Toggle text-to-speech functionality
+- **Temperature**: Adjust creativity in responses (lower = more deterministic)
+- **Max Tokens**: Set maximum length for responses
+
+### Interpreting Responses
+
+Each response includes:
+- A detailed answer to your question
+- Source references (YouTube videos with timestamps and/or web pages)
+- Optional voice output (if enabled)
+
+## 🧪 Testing Functionality
+
+The project includes comprehensive test scripts:
 
 ```bash
-# Test API connectivity
+# Test overall system components
+python test_system.py
+
+# Test OpenAI API connectivity
 python tests/test_api_connectivity.py
 
 # Test grammar correction
 python tests/test_grammar_correction.py --samples
 
-# Test system components
-python tests/test_system.py
-
 # Test audio transcription
 python tests/test_transcript_extraction.py --check-system
-python tests/test_transcript_extraction.py --video VIDEO_ID
-
 ```
 
-## YouTube Audio Transcription System
-
-### Overview
-
-The system downloads audio from YouTube videos and uses Whisper to transcribe the content. This approach ensures we can get transcripts from any YouTube video, even if they don't have official transcripts available.
-
-### Implementation Details
-
-The system follows these steps for each video:
-1. Extract video information (title, author, duration) using yt-dlp
-2. Download the audio in the best available quality using yt-dlp
-3. Convert the audio to MP3 format using FFmpeg (via yt-dlp)
-4. Transcribe the audio using Whisper's base model
-5. Process the transcript into logical chunks for storage and retrieval
-6. Save both raw transcripts and processed chunks
-
-## Logging
-
-The system provides comprehensive logging with the following features:
-
-- **Log Files**: All logs are saved to the `logs` directory
-- **Log Levels**: You can set the log level with the `--log-level` parameter (DEBUG, INFO, WARNING, ERROR, CRITICAL)
-- **Detailed Formatting**: Logs include timestamps, component names, and log levels
-- **Console Output**: All logs are displayed in the console during execution
-- **File Persistence**: Logs are saved to files for later analysis:
-  - Main initialization: `logs/init_knowledge_base.log`
-  - System tests: `system_test.log`
-
-To view log files:
-```bash
-# View the last 50 lines of the initialization log
-tail -n 50 logs/init_knowledge_base.log
-
-# Search for error messages in the log
-grep "ERROR" logs/init_knowledge_base.log
-```
-
-## System Architecture
-
-The system consists of the following components:
-
-1. **YouTube Extractor (`src/knowledge_base/youtube_extractor.py`)**: 
-   - Downloads audio from YouTube videos
-   - Transcribes audio using Whisper
-   - Creates transcript chunks
-
-2. **Chunk Processor (`src/knowledge_base/chunk_processor.py`)**: 
-   - Improves grammar and formatting of transcript chunks
-   - Optimized for Turkish language
-
-3. **Vector Store (`src/knowledge_base/vector_store.py`)**: 
-   - Creates embeddings from transcript chunks
-   - Provides semantic search functionality
-
-4. **OpenAI Client (`src/utils/openai_client.py`)**: 
-   - Centralizes all OpenAI API calls
-   - Provides robust error handling and retries
-
-5. **AI Engine (`src/ai_engine/openai_service.py`)**: 
-   - Generates responses based on user queries and retrieved context
-   - Optimized for Turkish language
-
-## Troubleshooting
-
-### YouTube Download Issues
-
-If you encounter issues downloading from YouTube:
-
-1. Update yt-dlp to the latest version:
-   ```bash
-   pip install -U yt-dlp
-   ```
-
-2. Check if the video is available in your region
-3. Try different videos or a different playlist
-4. Check your internet connection
-5. Verify the video or playlist exists and is publicly accessible
-
-### Transcription Issues
-
-If transcription fails:
-
-1. Ensure FFmpeg is installed correctly
-2. Check that the audio was downloaded properly
-3. Try with a different video
-4. Check if Whisper is installed correctly
-
-### OpenAI API Issues
-
-If OpenAI API calls fail:
-
-1. Check your API key in the .env file
-2. Verify you have sufficient API credits
-3. Check your internet connection
-4. Run `python tests/test_api_connectivity.py` to test connectivity
-
-### Knowledge Base Issues
-
-If you encounter issues with the knowledge base:
-
-1. Check that you have internet access to download YouTube transcripts
-2. Ensure you have sufficient disk space for storing the knowledge base
-3. Try rebuilding the knowledge base from the sidebar
-
-### Audio Issues
-
-If voice output isn't working:
-
-1. Check that you have enabled voice output in the sidebar
-2. Ensure your browser allows audio playback
-3. Verify that the required audio libraries are installed
-
-## File Structure
+## 📁 File Structure
 
 ```
 /
-├── app.py                     # Main Streamlit application
-├── init_knowledge_base.py     # Knowledge base initialization script
-├── requirements.txt           # Python dependencies
-├── .env.example               # Example environment variables
-├── logs/                      # Log files directory
-├── tests/                     # Test scripts
-│   ├── test_system.py         # Comprehensive system test
-│   ├── test_api_connectivity.py # Test OpenAI API connectivity
-│   ├── test_grammar_correction.py # Test grammar correction
-│   ├── test_transcript_extraction.py # Test audio transcription
-│   ├── test_audio.py          # Audio processing tests
-│   ├── test_ai_engine.py      # AI Engine tests
-│   ├── test_knowledge_base.py # Knowledge base tests
+├── app.py                             # Main Streamlit application
+├── init_knowledge_base.py             # Knowledge base initialization script
+├── test_system.py                     # System testing script
+├── requirements.txt                   # Python dependencies
+├── .env.sample                        # Example environment variables
+├── logs/                              # Log files
+├── tests/                             # Test scripts
+│   ├── test_api_connectivity.py       # API connectivity tests
+│   ├── test_grammar_correction.py     # Grammar correction tests
+│   ├── test_transcript_extraction.py  # Transcription tests
+│   └── ...                            # Additional test scripts
 ├── src/
-│   ├── ai_engine/             # AI response generation
-│   ├── knowledge_base/        # Knowledge base components
-│   │   ├── chunk_processor.py # Grammar improvement
-│   │   ├── text_processor.py  # Text processing utilities
-│   │   ├── vector_store.py    # Vector store and search
-│   │   └── youtube_extractor.py # YouTube extraction and transcription
-│   ├── utils/                 # Utility functions
-│   │   └── openai_client.py   # Centralized OpenAI client
-│   └── audio/                 # Audio processing utilities
-└── data/                      # Data storage (created during initialization)
-    ├── audio/                 # Downloaded audio files
-    ├── transcripts/           # Raw transcripts
-    ├── chunks/                # Processed transcript chunks
-    ├── vector_store/          # Vector embeddings
-    └── logs/                  # Conversation logs
+│   ├── ai_engine/                     # AI response generation components
+│   │   ├── openai_service.py          # OpenAI integration
+│   │   ├── query_processor.py         # Query processing
+│   │   └── web_search.py              # Web search integration
+│   ├── knowledge_base/                # Knowledge base components
+│   │   ├── chunk_processor.py         # Grammar improvement and chunk processing
+│   │   ├── vector_store.py            # Vector embeddings and search
+│   │   ├── youtube_extractor.py       # YouTube playlist/video processing
+│   │   
+│   ├── audio/                         # Audio processing
+│   │   └── text_to_speech.py          # TTS functionality
+│   └── utils/                         # Utilities
+│       ├── helpers.py                 # Helper functions
+│       ├── openai_client.py           # Centralized OpenAI client
+│       
+└── data/                              # Data storage (created during initialization)
+    ├── audio/                         # Downloaded audio files
+    ├── chunks/                        # Processed transcript chunks
+    ├── vector_store/                  # Vector embeddings
+    └── logs/                          # Conversation logs
 ```
 
-## License
+## ⚠️ Troubleshooting
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+### YouTube Download Issues
+- Update yt-dlp: `pip install -U yt-dlp`
+- Check video availability in your region
+- Verify internet connection and YouTube access
 
-## Acknowledgments
+### Transcription Issues
+- Verify FFmpeg installation
+- Check audio file quality
+- Try different videos or smaller segments
 
-- [OpenAI](https://openai.com/) for Whisper and GPT models
-- [langchain](https://github.com/langchain-ai/langchain) for vector store integration
-- [yt-dlp](https://github.com/yt-dlp/yt-dlp) for YouTube downloading 
-- [Streamlit](https://streamlit.io/) for the web interface 
+### OpenAI API Issues
+- Verify API key is correct and has sufficient credits
+- Check internet connectivity
+- Run `python tests/test_api_connectivity.py` to diagnose
+
+### Knowledge Base Issues
+- Ensure sufficient disk space
+- Check file permissions in data directories
+- Try rebuilding knowledge base from sidebar menu
+
+### Voice Output Issues
+- Enable voice output in settings
+- Ensure browser allows audio playback
+- Verify required audio libraries are installed
+
+## 🔧 Advanced Usage
+
+### Customizing the Knowledge Base
+
+To focus on specific leadership topics:
+1. Select YouTube videos that focus on your areas of interest
+2. Process them using `init_knowledge_base.py`
+3. Use the web search feature to supplement with up-to-date information
+
+### API Integration
+
+The modular architecture allows for straightforward integration:
+- Import `QueryProcessor` from `src.ai_engine.query_processor` for NLP capabilities
+- Use `VectorStore` from `src.knowledge_base.vector_store` for semantic search
+- Leverage `OpenAIClient` from `src.utils.openai_client` for API access
+
+### Performance Optimization
+
+For larger knowledge bases:
+- Use the `--skip-grammar` flag during initialization for faster processing
+- Adjust the number of knowledge base results in settings to optimize response time
+- Consider using a more powerful embedding model for increased search accuracy
+
+## 📜 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 🙏 Acknowledgments
+
+- [OpenAI](https://openai.com/) for providing Whisper and GPT models
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp) for YouTube downloading capabilities
+- [Streamlit](https://streamlit.io/) for the user interface framework
+- [gTTS](https://github.com/pndurette/gTTS) for text-to-speech functionality
+- All contributors who helped improve this project
+
+## 📊 Project Status
+
+This project open to adding new features and improvements. Please check the repository for updates and submit issues or feature  through GitHub.
+
+---
+
+<div align="center">
+  <p>Developed by <a href="https://github.com/Daymenion">Daymenion</a> with ❤️</p>
+</div>
